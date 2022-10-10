@@ -32,7 +32,8 @@ def create_metadata(token_id, prompt, image_dir):
         with open(metadata_file_name, "w") as file:
             json.dump(collectible_metadata, file)
         # upload metadata to ipfs
-        upload_metadata_to_ipfs(api, metadata_file_name)
+        ret = upload_metadata_to_ipfs(api, metadata_file_name)
+        print("metadata url is {}".format(ret))
 
 
 # curl -X POST -F file=@metadata/goerli/0-SHIBA_INU.json http://localhost:5001/api/v0/add
@@ -47,14 +48,12 @@ def upload_img_to_ipfs(api, image_dir):
 
 
 def upload_metadata_to_ipfs(api, filepath):
-    with Path(filepath).open("rb") as fp:
-        metadata = fp.read()
-        # 上传文件
-        res = api.add(metadata)
-        ipfs_hash = res.json()["Hash"]
-        metadata_uri = f"https://ipfs.io/ipfs/{ipfs_hash}"
-        print(metadata_uri)
-        return metadata_uri
+    # 上传文件
+    res = api.add(filepath)
+    ipfs_hash = res["Hash"]
+    metadata_uri = f"https://ipfs.io/ipfs/{ipfs_hash}"
+    print(metadata_uri)
+    return metadata_uri
 
 
 if __name__ == "__main__":
