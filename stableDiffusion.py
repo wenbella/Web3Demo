@@ -4,40 +4,39 @@
 
 
 
+import os
 import torch
-from diffusers import StableDiffusionPipeline
-
-pipe = StableDiffusionPipeline.from_pretrained("CompVis/stable-diffusion-v1-4", revision="fp16", torch_dtype=torch.float16, use_auth_token=True)
-
-pipe = pipe.to("cuda")
-
-from PIL import Image
 from torch import autocast
+from diffusers import StableDiffusionPipeline
+import ipfsapi
+from PIL import Image
+from helper_script import upload_img_to_ipfs
+from collections import defaultdict
 
-
-def image_grid(imgs, rows, cols):
-    assert len(imgs) == rows * cols
-
-    w, h = imgs[0].size
-    grid = Image.new('RGB', size=(cols * w, rows * h))
-    grid_w, grid_h = grid.size
-
-    for i, img in enumerate(imgs):
-        grid.paste(img, box=(i % cols * w, i // cols * h))
-    return grid
+pipe = StableDiffusionPipeline.from_pretrained("CompVis/stable-diffusion-v1-4", revision="fp16",
+                                               torch_dtype=torch.float16, use_auth_token=True)
+pipe = pipe.to("cuda")
+api = ipfsapi.connect('127.0.0.1', 5001)
 
 
 def outputImage(text):
-  num_cols = 3
-  num_rows = 4
+    abs_path = os.path.dirname(os.path.realpath(__file__)) + "/images/"
+    if not os.path.exists(abs_path):
+        os.mkdir(abs_path)
+    ret = defaultdict()
+    for i in range(0, 4):
+        prompt = text
+        with autocast("cuda"):
+            image = pipe(prompt).images[0]
+        img_path = abs_path + f"output%s.png" % str(i)
+        if os.path.exists(img_path):
+            os.remove(img_path)
+        image.save(img_path)
+        image_url = upload_img_to_ipfs(img_path)
+        ret[f'image%s' % str(i)] = image_url
+    return ret
 
-  prompt = [text] * num_cols
 
-  all_images = []
-  for i in range(num_rows):
-    with autocast("cuda"):
-      images = pipe(prompt).images
-    all_images.extend(images)
-
-  grid = image_grid(all_images, rows=num_rows, cols=num_cols)
-  grid.save(f"output.png")
+if __name__ == "__main__":
+    prompt = "2. detailed digital art by Disney, Pixar, beautiful celestial woman, celestial, pastel lavender hair in loose curls, bioluminescent purple clothes made of stars, Disney Pixar eyes, deep look, anime, in the style of Kazushi Hagiwara, Alphonse Mucha, Theodor Suess Geisel, Ilya Kuvshinov, Lisa Frank, Gil Elvgren"
+    print(outputImage(prompt))
