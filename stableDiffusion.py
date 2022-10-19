@@ -8,7 +8,7 @@ import os
 import torch
 from torch import autocast
 from diffusers import StableDiffusionPipeline
-import ipfsapi
+import ipfshttpclient
 from PIL import Image
 from helper_script import upload_img_to_ipfs
 from collections import defaultdict
@@ -16,10 +16,10 @@ from collections import defaultdict
 pipe = StableDiffusionPipeline.from_pretrained("CompVis/stable-diffusion-v1-4", revision="fp16",
                                                torch_dtype=torch.float16, use_auth_token=True)
 pipe = pipe.to("cuda")
-api = ipfsapi.connect('127.0.0.1', 5001)
 
 
 def outputImage(text):
+    client = ipfshttpclient.connect()
     abs_path = os.path.dirname(os.path.realpath(__file__)) + "/images/"
     if not os.path.exists(abs_path):
         os.mkdir(abs_path)
@@ -32,7 +32,9 @@ def outputImage(text):
         if os.path.exists(img_path):
             os.remove(img_path)
         image.save(img_path)
-        image_url = upload_img_to_ipfs(img_path)
+        ret = client.add(img_path)
+        ipfs_hash = ret['Hash']
+        image_url = f"https://ipfs.io/ipfs/{ipfs_hash}"
         ret[f'image%s' % str(i)] = image_url
     return ret
 
