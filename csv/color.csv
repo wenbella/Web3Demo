@@ -1,0 +1,58 @@
+,Main Category,Child Category,GrandChild Category,Prompt,Translate
+254,Colors_and_Palettes,Colors,Basic Colors,Violet,紫罗兰
+255,Colors_and_Palettes,Colors,Basic Colors,Fuchsia,紫红色
+256,Colors_and_Palettes,Colors,Extended Colors,Tan,谭
+257,Colors_and_Palettes,Colors,Extended Colors,Scarlet,猩红色
+258,Colors_and_Palettes,Colors,Extended Colors,Chartreuse,沙特色
+259,Colors_and_Palettes,Colors,Extended Colors,Turquoise,绿松石色
+260,Colors_and_Palettes,Colors,Extended Colors,Aqua,水族
+261,Colors_and_Palettes,Colors,Extended Colors,Azure,蔚蓝
+262,Colors_and_Palettes,Chromatic Palettes,,Warm Color Palette,暖色系调色板
+263,Colors_and_Palettes,Chromatic Palettes,,Cool Color Palette,冷色系调色板
+264,Colors_and_Palettes,Chromatic Palettes,,Inverted Colors,颠倒的颜色
+265,Colors_and_Palettes,Chromatic Palettes,,Colorful,丰富多彩
+266,Colors_and_Palettes,Chromatic Palettes,,Multicolored,多色的
+267,Colors_and_Palettes,Chromatic Palettes,,Rainbow,彩虹
+268,Colors_and_Palettes,Chromatic Palettes,,Spectral Color,光谱颜色
+269,Colors_and_Palettes,Chromatic Palettes,,Vibrant,活力四射
+270,Colors_and_Palettes,Chromatic Palettes,,Dichromatism,双色球
+271,Colors_and_Palettes,Chromatic Palettes,,Tetrachromacy,四色性
+272,Colors_and_Palettes,Chromatic Palettes,,Saturated,饱和的
+273,Colors_and_Palettes,Chromatic Palettes,,High Saturation,高饱和度
+274,Colors_and_Palettes,Chromatic Palettes,,Low Saturation,低饱和度
+275,Colors_and_Palettes,Chromatic Palettes,,Electric Colors,电气化的颜色
+276,Colors_and_Palettes,Chromatic Palettes,,Tonal Colors,色调颜色
+277,Colors_and_Palettes,Chromatic Palettes,,Light,亮度
+278,Colors_and_Palettes,Chromatic Palettes,,Light Mode,灯光模式
+279,Colors_and_Palettes,Chromatic Palettes,,Dark Mode,黑暗模式
+280,Colors_and_Palettes,Chromatic Palettes,,Tones of Black,黑色的色调
+281,Colors_and_Palettes,Chromatic Palettes,,Tones of Black in Background,背景中的黑色调
+282,Colors_and_Palettes,Chromatic Palettes,,Light Blue Background,浅蓝色背景
+283,Colors_and_Palettes,Chromatic Palettes,,Light Blue Foreground,浅蓝色前景
+284,Colors_and_Palettes,Monochromatic Palettes,,Monochrome,单色的
+285,Colors_and_Palettes,Monochromatic Palettes,,Black and White,黑与白
+286,Colors_and_Palettes,Monochromatic Palettes,,Desaturated,不饱和的
+287,Colors_and_Palettes,Monochromatic Palettes,,Sepia,深褐色
+288,Colors_and_Palettes,Monochromatic Palettes,,Cyanopsia,氰化物
+289,Colors_and_Palettes,Contrast,,High Contrast,高对比度
+290,Colors_and_Palettes,Contrast,,Low Contrast,低对比度
+291,Colors_and_Palettes,Color Models,,RGB,RGB
+292,Colors_and_Palettes,Color Models,,scRGB,scRGB
+293,Colors_and_Palettes,Color Models,,CMYK,CMYK
+294,Colors_and_Palettes,Color Models,,HSV,HSV
+295,Colors_and_Palettes,Color Models,,HSL,HSL
+296,Colors_and_Palettes,Color Models,,HCL,HCL
+297,Colors_and_Palettes,Color Models,,VGA,VGA
+298,Colors_and_Palettes,Color Models,,EGA,EGA
+299,Colors_and_Palettes,Color Models,,CGA,CGA
+300,Colors_and_Palettes,Color Models,,HDR,HDR
+301,Colors_and_Palettes,Color Models,,sRGB,sRGB
+302,Colors_and_Palettes,Color Models,,P3,P3
+303,Colors_and_Palettes,Color Models,,Adobe RGB,Adobe RGB
+304,Colors_and_Palettes,Color Models,,ProPhoto RGB,ProPhoto RGB
+305,Colors_and_Palettes,Color Models,,Pantone,潘通
+306,Colors_and_Palettes,Color Models,,YCbCr,YCbCr
+307,Colors_and_Palettes,Color Models,,YPbPr,YPbPr
+308,Colors_and_Palettes,Color Models,,Coloroid,彩虹灯
+309,Colors_and_Palettes,Color Motion Picture Film Systems,,Kodachrome,柯达克罗姆
+310,Colors_and_Palettes,Color Motion Picture Film Systems,,Agfacolor,琥珀色
