@@ -32,8 +32,8 @@ def outputImage(text):
         if os.path.exists(img_path):
             os.remove(img_path)
         image.save(img_path)
-        ret = client.add(img_path)
-        ipfs_hash = ret['Hash']
+        r = client.add(img_path)
+        ipfs_hash = r['Hash']
         image_url = f"https://ipfs.io/ipfs/{ipfs_hash}"
         ret[f'image%s' % str(i)] = image_url
     return ret
