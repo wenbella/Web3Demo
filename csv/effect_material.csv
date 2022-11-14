@@ -1,0 +1,91 @@
+,Main Category,Child Category,GrandChild Category,Prompt,Translate
+1843,Material_Properties,Opacity,,Transparent,透明的
+1844,Material_Properties,Opacity,,Translucent,半透明的
+1845,Material_Properties,Opacity,,Opaque,不透明的
+1846,Material_Properties,Light Manipulation,,Optics,光学元件
+1847,Material_Properties,Light Manipulation,,Materiality,重要性
+1848,Material_Properties,Light Manipulation,,Ambient Occlusion,环境遮蔽
+1849,Material_Properties,Light Manipulation,,Opalescent,乳白色
+1850,Material_Properties,Light Manipulation,,Polarization,偏振
+1851,Material_Properties,Light Manipulation,,Polarized,偏光型
+1852,Material_Properties,Luminescence,,Glowing,焕然一新
+1853,Material_Properties,Luminescence,,Radiant,辐射
+1854,Material_Properties,Luminescence,,Cherenkov Radiation,切伦科夫辐射
+1855,Material_Properties,Luminescence,,Bioluminescence,生物发光
+1856,Material_Properties,Luminescence,,Photoluminescence,发光性
+1857,Material_Properties,Luminescence,,Chemiluminescence,化学发光
+1858,Material_Properties,Luminescence,,Cathodoluminescence,阴极射线
+1859,Material_Properties,Luminescence,,Electroluminescence,电致发光
+1860,Material_Properties,Luminescence,,Radioluminescence,放射性发光
+1861,Material_Properties,Luminescence,,Phosphorescence,磷光体
+1862,Material_Properties,Luminescence,,Thermoluminescence,热释光
+1863,Material_Properties,Luminescence,,Electrochemiluminescence,电化学发光
+1864,Material_Properties,Luminescence,,Crystalloluminescence,结晶发光
+1865,Material_Properties,Luminescence,,Piezoluminescence,压电发光
+1866,Material_Properties,Luminescence,,Triboluminescence,三角形发光体
+1867,Material_Properties,Luminescence,,Mechanoluminescence,机械发光
+1868,Material_Properties,Luminescence,,Candoluminescence,坎多拉发光
+1869,Material_Properties,Luminescence,,Fractoluminescence,分光光度
+1870,Material_Properties,Luminescence,,Sonoluminescence,声波发射
+1871,Material_Properties,Luminescence,,Translucidluminescence,半透明的发光体
+1872,Material_Properties,Chromism,,Chromism,染色主义
+1873,Material_Properties,Chromism,,Piezochromism,压电染色法
+1874,Material_Properties,Chromism,,Tribochromism,三色性
+1875,Material_Properties,Chromism,,Metallochromism,金属变色法
+1876,Material_Properties,Chromism,,Ionochromism,电离色症
+1877,Material_Properties,Chromism,,Hydrochromism,氢变色法
+1878,Material_Properties,Chromism,,Cryochromism,隐色性
+1879,Material_Properties,Chromism,,Radiochromism,放射性变色法
+1880,Material_Properties,Chromism,,Concentratochromism,浓缩变色法
+1881,Material_Properties,Chromism,,Vapochromism,蒸馏色素
+1882,Material_Properties,Chromism,,Solvatochromism,溶剂染色法
+1883,Material_Properties,Chromism,,Solvatophotochromism,嗜光性变色症（Solvatophotochromism
+1884,Material_Properties,Chromism,,Thermochromism,热变色法
+1885,Material_Properties,Chromism,,Thermosolvatochromism,热溶变色法
+1886,Material_Properties,Chromism,,Thermochromatic,热变色
+1887,Material_Properties,Chromism,,Photochromism,光变色
+1888,Material_Properties,Chromism,,Photovoltachromism,感光变色症
+1889,Material_Properties,Chromism,,Photoelectrochromism,光电变色法
+1890,Material_Properties,Chromism,,Halochromism,晕色症
+1891,Material_Properties,Chromism,,Halosolvatochromism,卤素变色法
+1892,Material_Properties,Chromism,,Cathodochromism,阴性染色法
+1893,Material_Properties,Chromism,,Amorphochromism,肾上腺素
+1894,Material_Properties,Chromism,,Sorptiochromism,蝎子色症
+1895,Material_Properties,Chromism,,Electrochromism,电致变色法
+1896,Material_Properties,Chromism,,Magnetochromism,磁致变色法
+1897,Material_Properties,Chromism,,Mechanochromism,机械色度
+1898,Material_Properties,Chromism,,Biochromism,生物色度
+1899,Material_Properties,Chromism,,Bioelectrochromism,生物电致色法
+1900,Material_Properties,Chromism,,Chronochromism,时间色差
+1901,Material_Properties,Chromism,,Crystallochromism,晶体变色法
+1902,Material_Properties,Chromism,,Rigidichromism,刚性变色法
+1903,Material_Properties,Chromism,,Aggregachromism,聚合变色症
+1904,Material_Properties,Reflection and Refraction,,Rough,粗糙的
+1905,Material_Properties,Reflection and Refraction,,Matte,哑光
+1906,Material_Properties,Reflection and Refraction,,Glossy,光泽度
+1907,Material_Properties,Reflection and Refraction,,Polished,抛光的
+1908,Material_Properties,Reflection and Refraction,,Reflective,反射性
+1909,Material_Properties,Reflection and Refraction,,Retroreflective,反射式
+1910,Material_Properties,Reflection and Refraction,,Refractive,折射率
+1911,Material_Properties,Reflection and Refraction,,Caustics,苛责
+1912,Material_Properties,Reflection and Refraction,,Shimmer,微光
+1913,Material_Properties,Reflection and Refraction,,Shimmering,閃閃發光
+1914,Material_Properties,"Color (Dispersion, Chromatic, etc.)",,Iridescent,虹彩
+1915,Material_Properties,"Color (Dispersion, Chromatic, etc.)",,Dispersion,分散性
+1916,Material_Properties,"Color (Dispersion, Chromatic, etc.)",,Chromatic,半音阶
+1917,Material_Properties,Texture Maps,,Bump Map,凸点地图
+1918,Material_Properties,Texture Maps,,Bump Mapped,凹凸图
+1919,Material_Properties,Texture Maps,,Bump Mapping,凸点映射
+1920,Material_Properties,Texture Maps,,Normal Map,正常地图
+1921,Material_Properties,Texture Maps,,Depth Map,深度图
+1922,Material_Properties,Texture Maps,,Displacement Map,流离失所地图
+1923,Material_Properties,Soft Body,,Soft Body,软体
+1924,Material_Properties,Soft Body,,Squishy,柔软
+1925,Material_Properties,Other Material Properties,,Anisotropy,各向异性
+1926,Material_Properties,Other Material Properties,,Carbonated,碳酸饮料
+1927,Material_Properties,Other Material Properties,,Effervescent,泡腾剂
+1928,Material_Properties,Other Material Properties,,Icy,冰冷的
+1929,Material_Properties,Other Material Properties,,Charred,烧焦的
+1930,Material_Properties,Other Material Properties,,Corrugated,波浪形的
+1931,Material_Properties,Other Material Properties,,Perforated,穿孔的
+1932,Material_Properties,Other Material Properties,,Hydrophobic,疏水性

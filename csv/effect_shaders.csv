@@ -1,0 +1,70 @@
+,Main Category,Child Category,GrandChild Category,Prompt,Translate
+2162,SFX_and_Shaders,Reflections,,Ray Tracing Reflections,光线追踪反射
+2163,SFX_and_Shaders,Reflections,,Lumen Reflections,流明反思
+2164,SFX_and_Shaders,Reflections,,Screen Space Reflections,屏幕空间反射
+2165,SFX_and_Shaders,Reflections,,Diffraction Grading,衍射分级
+2166,SFX_and_Shaders,Reflections,,Reflection in a puddle,水坑中的倒影
+2167,SFX_and_Shaders,Reflections,,Water Reflection,水的倒影
+2168,SFX_and_Shaders,Blurs,,Blurry,模糊的
+2169,SFX_and_Shaders,Blurs,,Blur Effect,模糊效果
+2170,SFX_and_Shaders,Blurs,,Tilt Blur,倾斜模糊
+2171,SFX_and_Shaders,Stylized,,Chromatic Aberration,色差
+2172,SFX_and_Shaders,Stylized,,RGB Displacement,RGB置换
+2173,SFX_and_Shaders,Stylized,,Anaglyph,Anaglyph
+2174,SFX_and_Shaders,Stylized,,Multiscopy,多层拷贝
+2175,SFX_and_Shaders,Stylized,,Autostereoscopy,自动立体成像仪
+2176,SFX_and_Shaders,Stylized,,Stereoscopy,体视学
+2177,SFX_and_Shaders,Stylized,,Scan Lines,扫描线
+2178,SFX_and_Shaders,Stylized,,Parallax,视差
+2179,SFX_and_Shaders,Stylized,,Posterization,海报化
+2180,SFX_and_Shaders,Stylized,,Quantization,量化
+2181,SFX_and_Shaders,Stylized,,Sobel Operator,Sobel运算器
+2182,SFX_and_Shaders,Stylized,,Edge Detection,边缘检测
+2183,SFX_and_Shaders,Stylized,,Convolution Matrix,卷积矩阵
+2184,SFX_and_Shaders,Stylized,,Interlaced,隔行扫描
+2185,SFX_and_Shaders,Stylized,,Moire Patterns,摩尔纹图案
+2186,SFX_and_Shaders,Stylized,,Twisted Rays,扭曲的光线
+2187,SFX_and_Shaders,Stylized,,Ripple,涟漪
+2188,SFX_and_Shaders,Stylized,,Wavy,波浪形
+2189,SFX_and_Shaders,Stylized,,Morph,形状
+2190,SFX_and_Shaders,Stylized,,Squiggly,挤眉弄眼
+2191,SFX_and_Shaders,Stylized,,Wavetracing,波形追踪
+2192,SFX_and_Shaders,Stylized,,Sabattier Effect,萨巴蒂尔效应
+2193,SFX_and_Shaders,Stylized,,Rounded,圆形的
+2194,SFX_and_Shaders,Stylized,,Blobby,Blobby
+2195,SFX_and_Shaders,Stylized,,Textured,纹理
+2196,SFX_and_Shaders,Stylized,,Tornadic,Tornadic
+2197,SFX_and_Shaders,Stylized,,Cracks,裂缝
+2198,SFX_and_Shaders,Stylized,,Cracked,破解
+2199,SFX_and_Shaders,Stylized,,Glowing Edges,发光的边缘
+2200,SFX_and_Shaders,Stylized,,Spherize,斯弗里兹
+2201,SFX_and_Shaders,Stylized,,Harris Shutter,哈里斯百叶窗
+2202,SFX_and_Shaders,Stylized,,Tessellated,棋盘式
+2203,SFX_and_Shaders,Stylized,,Emboss,压花
+2204,SFX_and_Shaders,Stylized,,Starburst,星光灿烂
+2205,SFX_and_Shaders,Stylized,,Dirty,肮脏的
+2206,SFX_and_Shaders,Stylized,,With Imperfections,有不完美的地方
+2207,SFX_and_Shaders,Stylized,,Distortion,失真
+2208,SFX_and_Shaders,Stylized,,Cropped,裁剪过的
+2209,SFX_and_Shaders,Stylized,,Sharpened,削尖的
+2210,SFX_and_Shaders,Stylized,,Lenticular,光栅
+2211,SFX_and_Shaders,Stylized,,Dilate,扩张
+2212,SFX_and_Shaders,Stylized,,Erode,埃罗德
+2213,SFX_and_Shaders,Stylized,,Smudged,涂抹的
+2214,SFX_and_Shaders,Stylized,,Mordancage,モンドカーチ
+2215,SFX_and_Shaders,Shaders and Post Processing,,Ray Traced,雷电追踪
+2216,SFX_and_Shaders,Shaders and Post Processing,,Ray Tracing Ambient Occlusion,光线追踪的环境遮蔽
+2217,SFX_and_Shaders,Shaders and Post Processing,,RTX,RTX
+2218,SFX_and_Shaders,Shaders and Post Processing,,Aliasing,别名
+2219,SFX_and_Shaders,Shaders and Post Processing,,FXAA,FXAA
+2220,SFX_and_Shaders,Shaders and Post Processing,,TXAA,TXAA
+2221,SFX_and_Shaders,Shaders and Post Processing,,Sharpen,锐化
+2222,SFX_and_Shaders,Shaders and Post Processing,,Healing,愈合
+2223,SFX_and_Shaders,Shaders and Post Processing,,Digitally Enhanced,数字增强
+2224,SFX_and_Shaders,Shaders and Post Processing,,Post Processing,后期处理
+2225,SFX_and_Shaders,Shaders and Post Processing,,Production,生产
+2226,SFX_and_Shaders,Shaders and Post Processing,,Tone Mapping,色调映射
+2227,SFX_and_Shaders,Shaders and Post Processing,,SFX,SFX
+2228,SFX_and_Shaders,Shaders and Post Processing,,CGI,CGI
+2229,SFX_and_Shaders,Shaders and Post Processing,,SSAO,SSAO
+2230,SFX_and_Shaders,Shaders and Post Processing,,Cel Shading,Cel Shading

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fe79bed8-fd79-42b8-a4b2-50b275b678a6" name="ssh5.vast.ai">
+        <fileTransfer accessType="SFTP" host="ssh5.vast.ai" port="10552" sshConfigId="103a91ab-38ab-4def-b708-133ceb83bfbd" sshConfig="root@ssh5.vast.ai:10552:8080 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,849 @@
+114,Camera,Camera and Scenes,,Photography,摄影
+115,Camera,Camera and Scenes,,Dramatic,戏剧性的
+116,Camera,Camera and Scenes,,Glamor Shot,迷人的镜头
+117,Camera,Camera and Scenes,,Golden Hour,黄金时间
+118,Camera,Camera and Scenes,,Blue Hour,蓝色时光
+119,Camera,Camera and Scenes,,Award Winning Photography,获奖的摄影作品
+120,Camera,Camera and Scenes,,Establishing Shot,确立射击
+121,Camera,Camera and Scenes,,Nightography,夜间摄影
+122,Camera,Camera and Scenes,,Photoshoot,照片拍摄
+123,Camera,Camera and Scenes,,Portrait,形象代言人
+124,Camera,Camera and Scenes,,Cinematic Haze,影视化的阴霾
+125,Camera,Camera and Scenes,,Speed Photograph,速度照片
+126,Camera,Camera and Scenes,,Lapse,儿童
+127,Camera,Camera and Scenes,,Motion Capture,动作捕捉
+128,Camera,Camera and Scenes,,Claymation,粘土动画
+129,Camera,Camera and Scenes,,Video Frame Capture,视频帧捕获
+130,Camera,Camera and Scenes,,Stop Motion,停拍
+131,Camera,Camera and Scenes,,motion Animation Frame,动作动画框架
+132,Camera,Camera and Scenes,,Color Grading,颜色分级
+133,Camera,Camera and Scenes,,Bokeh,虚化
+134,Camera,Camera and Scenes,,Film Grain,胶片纹路
+135,Camera,Camera and Scenes,,Surveillance,监测
+136,Camera,Camera and Scenes,,Surveillance Footage,监视录像
+137,Camera,Camera and Scenes,,Security Footage,安全录像
+138,Camera,Camera and Scenes,,CCTV,闭路电视
+139,Camera,Camera and Scenes,,Footage,录像
+140,Camera,Camera and Scenes,,Satellite Imagery,卫星图像
+141,Camera,Camera and Scenes,,Paparazzi Photography,狗仔队摄影
+142,Camera,Camera and Scenes,,Underwater Photography,水下摄影
+143,Camera,Camera and Scenes,,Wildlife Photography,野生动物摄影
+144,Camera,Camera and Scenes,,National Geographic Photo,国家地理图片
+145,Camera,Camera and Scenes,,Editorial Photography,社论摄影
+146,Camera,Camera and Scenes,,Associated Press Photo,美联社照片
+147,Camera,Camera and Scenes,,Photojournalism,摄影记者
+148,Camera,Camera and Scenes,,Action Scene,行动场面
+149,Camera,Camera and Scenes,,War Photography,战争摄影
+150,Camera,Camera and Film Types,,Camcorder Effect,摄录机效果
+151,Camera,Camera and Film Types,,DSLR,单反相机
+152,Camera,Camera and Film Types,,Night Vision,夜视仪
+153,Camera,Camera and Film Types,,Drone Photography,无人机摄影
+154,Camera,Camera and Film Types,,GoPro Video,GoPro视频
+155,Camera,Camera and Film Types,,Unregistered Hypercam 2,未注册的Hypercam 2
+156,Camera,Camera and Film Types,,Hyperspectral Imaging,高光谱成像
+157,Camera,Camera and Film Types,,Multispectral Imaging,多光谱成像
+158,Camera,Camera and Film Types,,Disposable Camera,一次性使用的相机
+159,Camera,Camera and Film Types,,Disposable Camera Photo,一次性使用的相机照片
+160,Camera,Camera and Film Types,,Polaroid,宝丽来
+161,Camera,Camera and Film Types,,Ektachrome,艾克塔克姆
+162,Camera,Camera and Film Types,,Fujifilm Superia,富士公司的Superia
+163,Camera,Camera and Film Types,,Kodak Ektar,柯达Ektar
+164,Camera,Camera and Film Types,,Kodak Gold 200,柯达金200
+165,Camera,Camera and Film Types,,Kodak Portra,柯达Portra
+166,Camera,Camera and Film Types,,Nikon D750,尼康D750
+167,Camera,Camera and Film Types,,Provia,普罗维亚
+168,Camera,Camera and Film Types,,Velvia,Velvia
+169,Camera,Camera and Film Types,,Lomo,Lomo
+170,Camera,Camera and Film Types,,Pinhole Photography,针孔摄影
+171,Camera,Camera and Film Types,,CinemaScope,电影放映
+172,Camera,Camera and Film Types,,X 400 TX,X 400 TX
+173,Camera,Camera and Film Types,,Ilford HP5,伊尔福特HP5
+174,Camera,Camera and Film Types,,Photogram,照片
+175,Camera,Camera and Film Types,,VistaVision,愿景
+176,Camera,Camera and Film Types,,Techniscope,技术观察
+177,Camera,Camera and Film Types,,35,35
+178,Camera,Camera and Film Types,,Panavision,潘那维申
+179,Camera,Camera and Film Types,,70,70
+180,Camera,Camera and Film Types,,Cinerama,Cinerama
+181,Camera,Camera and Film Types,,Kinopanorama,视觉艺术
+182,Camera,Camera and Film Types,,Cinemiracle,电影奇迹》（Cinemiracle
+183,Camera,Camera and Film Types,,Daguerrotype,达盖尔版画
+184,Camera,Camera and Film Types,,Ambrotype,安布罗特型
+185,Camera,Camera and Film Types,,Calotype,卡洛特式
+186,Camera,Camera and Film Types,,Tintype,锡箔纸
+187,Camera,Camera and Film Types,,Negative,负面的
+188,Camera,Camera and Film Types,,Full Frame,全框架
+189,Camera,Film Sizes,,Shot on 8mm,用8毫米胶片拍摄
+190,Camera,Film Sizes,,Shot on 16mm,用16毫米胶片拍摄
+191,Camera,Film Sizes,,Shot on 28mm,用28毫米拍摄
+192,Camera,Film Sizes,,Shot on 35mm,用35毫米胶片拍摄
+193,Camera,Film Sizes,,35mm,35毫米
+194,Camera,Film Sizes,,Expired 35mm Film,过期的35毫米胶片
+195,Camera,Film Sizes,,Shot on 65mm,用65毫米胶片拍摄
+196,Camera,Film Sizes,,Expired 65mm Film,过期的65毫米胶片
+197,Camera,Film Sizes,,Shot on 70mm,用70毫米拍摄
+198,Camera,Film Sizes,,Shot on IMAX 70mm,用IMAX 70毫米胶片拍摄
+199,Camera,Lens Sizes,,15mm Lens,15毫米镜头
+200,Camera,Lens Sizes,,35mm Lens,35毫米镜头
+201,Camera,Lens Sizes,,85mm Lens,85毫米镜头
+202,Camera,Lens Sizes,,100mm Lens,100毫米镜头
+203,Camera,Lens Sizes,,200mm Lens,200毫米镜头
+204,Camera,Lenses,,Macro,宏观
+205,Camera,Lenses,,Macro View,宏观视角
+206,Camera,Lenses,,Magnification,放大倍数
+207,Camera,Lenses,,100x Magnification,100倍放大率
+208,Camera,Lenses,,200x Magnification,200倍放大率
+209,Camera,Lenses,,500x Magnification,500倍放大率
+210,Camera,Lenses,,1000x Magnification,1000倍放大率
+211,Camera,Lenses,,Microscopic,显微镜
+212,Camera,Lenses,,Electron Microscope,电子显微镜
+213,Camera,Lenses,,Resolution Microscopy,分辨率显微镜
+214,Camera,Lenses,,Telescope,望远镜
+215,Camera,Lenses,,Telescopic,伸缩式
+216,Camera,Lenses,,Telescope Photography,望远镜摄影
+217,Camera,Lenses,,Telephoto,长焦镜头
+218,Camera,Lenses,,Panorama,全景图
+219,Camera,Lenses,,360 Panorama,360全景图
+220,Camera,Lenses,,360 Angle,360度角
+221,Camera,Lenses,,Fisheye Lens,鱼眼镜头
+222,Camera,Lenses,,Fisheye Lens Effect,鱼眼镜头效果
+223,Camera,Lenses,,Lens Distortion,镜头失真
+224,Camera,Lens Filters,,Polarizer,偏光片
+225,Camera,"Camera Settings (Aperture, Exposure, Color and White Balance, etc.)",,Short Exposure,短期曝光
+226,Camera,"Camera Settings (Aperture, Exposure, Color and White Balance, etc.)",,Long Exposure,长时间曝光
+227,Camera,"Camera Settings (Aperture, Exposure, Color and White Balance, etc.)",,1000,1000
+228,Camera,"Camera Settings (Aperture, Exposure, Color and White Balance, etc.)",,22,22
+229,Camera,"Camera Settings (Aperture, Exposure, Color and White Balance, etc.)",,Gamma,伽玛
+230,Camera,"Camera Settings (Aperture, Exposure, Color and White Balance, etc.)",,White Balance,白平衡
+231,Camera,"Depth of Field, Zoom, Pan, and Tilt",,Depth,深度
+232,Camera,"Depth of Field, Zoom, Pan, and Tilt",,Depth of Field,景深
+233,Camera,"Depth of Field, Zoom, Pan, and Tilt",,DOF,DOF
+234,Camera,"Depth of Field, Zoom, Pan, and Tilt",,Zoom,缩放
+235,Camera,"Depth of Field, Zoom, Pan, and Tilt",,Dolly Zoom,多利来变焦
+236,Camera,"Depth of Field, Zoom, Pan, and Tilt",,Horizon Line,地平线
+237,Camera,"Depth of Field, Zoom, Pan, and Tilt",,Vantage Point,优势点
+238,Camera,"Depth of Field, Zoom, Pan, and Tilt",,Vanishing Point,消失点
+239,Camera,"Depth of Field, Zoom, Pan, and Tilt",,Pan,锅
+240,Camera,"Depth of Field, Zoom, Pan, and Tilt",,Tilt,倾斜
+241,Camera,Megapixel Resolutions,,Megapixel,百万像素
+242,Camera,Megapixel Resolutions,,2 Megapixels,200万像素
+243,Camera,Megapixel Resolutions,,10 Megapixels,1000万像素
+244,Camera,Megapixel Resolutions,,12 Megapixels,1200万像素
+245,Camera,Megapixel Resolutions,,16 Megapixels,1600万像素
+246,Camera,Megapixel Resolutions,,20 Megapixels,2000万像素
+247,Camera,Megapixel Resolutions,,22 Megapixels,2200万像素
+248,Camera,Other,,Lens Flare,镜面闪光
+249,Camera,Other,,Vignette,小插曲
+250,Camera,Other,,Split Toning,分体式调色
+251,Camera,Other,,Rephotography,补拍
+252,Camera,Other,,Scanography,扫描术
+253,Camera,Other,,Scan Photography,扫描摄影
+311,Design_Styles,Simplicity/Complexity,,Simple,简单
+312,Design_Styles,Simplicity/Complexity,,Basic,基本
+313,Design_Styles,Simplicity/Complexity,,Detailed,详细
+314,Design_Styles,Simplicity/Complexity,,Hyperdetailed,超详细
+315,Design_Styles,Simplicity/Complexity,,Ornate,俅
+316,Design_Styles,Simplicity/Complexity,,Multiplex,多元化
+317,Design_Styles,Simplicity/Complexity,,Kolmogorov Complexity,科尔莫戈罗夫复杂度
+318,Design_Styles,Simplicity/Complexity,,Cluttered,凌乱的
+319,Design_Styles,Simplicity/Complexity,,Chaotic,混乱的
+320,Design_Styles,Simplicity/Complexity,,Confusing,令人困惑
+321,Design_Styles,Simplicity/Complexity,,Incoherent,不连贯的
+322,Design_Styles,Simplicity/Complexity,,Surface Detail,表面细节
+323,Design_Styles,Simplicity/Complexity,,Intricate Surface Detail,复杂的表面细节
+324,Design_Styles,Simplicity/Complexity,,Greeble,格雷伯尔
+325,Design_Styles,Simplicity/Complexity,,Minimalist,极简主义
+326,Design_Styles,Simplicity/Complexity,,Maximalist,最具特色者
+327,Design_Styles,Simplicity/Complexity,,Intricate Maximalism,复杂的极致主义
+328,Design_Styles,Simplicity/Complexity,,Flat,平坦
+329,Design_Styles,Simplicity/Complexity,,Flat Design,扁平化设计
+330,Design_Styles,Simplicity/Complexity,,e Flat Design,e 扁平化设计
+331,Design_Styles,Simplicity/Complexity,,Flat Shading,平坦的阴影
+332,Design_Styles,Patterns and Color Based Designs,,Colorized,彩色的
+333,Design_Styles,Patterns and Color Based Designs,,Color Wheel,色轮
+334,Design_Styles,Patterns and Color Based Designs,,Hue,辉度
+335,Design_Styles,Patterns and Color Based Designs,,Gradient,梯度
+336,Design_Styles,Patterns and Color Based Designs,,Vibrance,活力
+337,Design_Styles,Patterns and Color Based Designs,,Spectrum,频谱
+338,Design_Styles,Patterns and Color Based Designs,,Synesthesia,协同效应
+339,Design_Styles,Patterns and Color Based Designs,,Pure,纯粹的
+340,Design_Styles,Patterns and Color Based Designs,,Purity,纯洁性
+341,Design_Styles,Patterns and Color Based Designs,,Funky,时髦的
+342,Design_Styles,Patterns and Color Based Designs,,Groovy,幽默风趣
+343,Design_Styles,Patterns and Color Based Designs,,Disco,迪斯科
+344,Design_Styles,Patterns and Color Based Designs,,Stylized,风格化
+345,Design_Styles,Patterns and Color Based Designs,,Confetti,碎纸片
+346,Design_Styles,Patterns and Color Based Designs,,dye,染料
+347,Design_Styles,Patterns and Color Based Designs,,Patterns,模式
+348,Design_Styles,Patterns and Color Based Designs,,Polka Dot,波尔卡圆点
+349,Design_Styles,Patterns and Color Based Designs,,Checkerboard,格子板
+350,Design_Styles,Patterns and Color Based Designs,,Halftone,半色调
+351,Design_Styles,Patterns and Color Based Designs,,Damask Patterns,大马士革图案
+352,Design_Styles,Patterns and Color Based Designs,,Memphis Pattern,孟菲斯模式
+353,Design_Styles,Patterns and Color Based Designs,,Parametric Patterns,参数化模式
+354,Design_Styles,Patterns and Color Based Designs,,Diffraction Patterns,衍射图案
+355,Design_Styles,Patterns and Color Based Designs,,Voronoi,Voronoi
+356,Design_Styles,Patterns and Color Based Designs,,Zebra Pattern,斑马图案
+357,Design_Styles,Patterns and Color Based Designs,,Tiger Pattern,虎纹
+358,Design_Styles,Patterns and Color Based Designs,,Cow Pattern,牛的图案
+359,Design_Styles,Patterns and Color Based Designs,,Rorschach,罗夏
+360,Design_Styles,"Elegance, Beauty, and Appeal",,Marvelous,奇妙的
+361,Design_Styles,"Elegance, Beauty, and Appeal",,Beautiful,靓丽
+362,Design_Styles,"Elegance, Beauty, and Appeal",,Elegant,优雅的
+363,Design_Styles,"Elegance, Beauty, and Appeal",,Luxurious,奢华的
+364,Design_Styles,"Elegance, Beauty, and Appeal",,Ultra Quality,超高质量
+365,Design_Styles,"Elegance, Beauty, and Appeal",,Perfection,完善
+366,Design_Styles,Charts and Diagrams,,Diagram,图示
+367,Design_Styles,Charts and Diagrams,,Ideogram,意识形态
+368,Design_Styles,Charts and Diagrams,,Pictogram,象形图
+369,Design_Styles,Charts and Diagrams,,Space,空间
+370,Design_Styles,Charts and Diagrams,,Feynman Diagram,Feynman图
+371,Design_Styles,Charts and Diagrams,,Map,地图
+372,Design_Styles,Charts and Diagrams,,Schematic,示意图
+373,Design_Styles,Decade Styles,,20s,20s
+374,Design_Styles,Decade Styles,,20s Pattern,20年代的图案
+375,Design_Styles,Decade Styles,,1920s Decor,20世纪20年代的装饰
+376,Design_Styles,Decade Styles,,30s,30s
+377,Design_Styles,Decade Styles,,30s Pattern,30年代图案
+378,Design_Styles,Decade Styles,,1930s Decor,1930年代的装饰
+379,Design_Styles,Decade Styles,,40s,40s
+380,Design_Styles,Decade Styles,,40s Pattern,40年代图案
+381,Design_Styles,Decade Styles,,1940s Decor,1940年代的装饰
+382,Design_Styles,Decade Styles,,50s,50s
+383,Design_Styles,Decade Styles,,50s Pattern,50年代图案
+384,Design_Styles,Decade Styles,,1950s Decor,20世纪50年代的装饰
+385,Design_Styles,Decade Styles,,60s,60s
+386,Design_Styles,Decade Styles,,60s Pattern,60年代的图案
+387,Design_Styles,Decade Styles,,1960s Decor,20世纪60年代的装饰
+388,Design_Styles,Decade Styles,,70s,70s
+389,Design_Styles,Decade Styles,,70s Pattern,70年代的图案
+390,Design_Styles,Decade Styles,,1970s Decor,20世纪70年代的装饰
+391,Design_Styles,Decade Styles,,80s,80s
+392,Design_Styles,Decade Styles,,80s Pattern,80年代的图案
+393,Design_Styles,Decade Styles,,1980s Decor,1980年代的装饰
+394,Design_Styles,Decade Styles,,90s,90s
+395,Design_Styles,Decade Styles,,90s Pattern,90年代的模式
+396,Design_Styles,Decade Styles,,1990s Decor,1990年代的装饰
+397,Design_Styles,Decade Styles,,Y2K Design,Y2K设计
+398,Design_Styles,Decade Styles,,Y2K Pattern,Y2K模式
+399,Design_Styles,Decade Styles,,2000s Pattern,2000年代的模式
+400,Design_Styles,Decade Styles,,2000s Decor,2000年代的装饰
+401,Design_Styles,Decade Styles,,2010s Decor,2010年代的装饰
+402,Design_Styles,Decade Styles,,2020s Decor,2020年的装饰
+403,Design_Styles,Decade Styles,,1100s,1100s
+404,Design_Styles,Decade Styles,,1200s,1200s
+405,Design_Styles,Decade Styles,,1300s,1300s
+406,Design_Styles,Decade Styles,,1400s,1400s
+407,Design_Styles,Decade Styles,,1500s,1500s
+408,Design_Styles,Decade Styles,,1600s,1600s
+409,Design_Styles,Decade Styles,,1700s,1700s
+410,Design_Styles,Decade Styles,,1800s,1800s
+411,Design_Styles,Decade Styles,,1900s,1900s
+412,Design_Styles,Decade Styles,,1950s,1950s
+413,Design_Styles,Decade Styles,,1960s,1960s
+414,Design_Styles,Decade Styles,,1970s,1970s
+415,Design_Styles,Decade Styles,,1980s,1980s
+416,Design_Styles,Decade Styles,,1990s,1990s
+417,Design_Styles,Decade Styles,,2000s,2000s
+418,Design_Styles,Decade Styles,,2010s,2010s
+419,Design_Styles,Decade Styles,,2020s,2020s
+420,Design_Styles,Decade Styles,,3000s,3000s
+421,Design_Styles,Decade Styles,,4000s,4000s
+422,Design_Styles,Decade Styles,,5000s,5000s
+423,Design_Styles,"Morphism (Skeuomorphism, Glassmorphism, etc.)",,Skeuomorphism,骷髅会
+424,Design_Styles,"Morphism (Skeuomorphism, Glassmorphism, etc.)",,Neumorphism,新形式主义
+425,Design_Styles,"Morphism (Skeuomorphism, Glassmorphism, etc.)",,Neomorphism,新形态主义
+426,Design_Styles,"Morphism (Skeuomorphism, Glassmorphism, etc.)",,Glassmorphism,玻璃形态主义
+427,Design_Styles,"Morphism (Skeuomorphism, Glassmorphism, etc.)",,Claymorphism,粘土形态学
+428,Design_Styles,Cubism,,Synthetic Cubism,合成立体主义
+429,Design_Styles,Cubism,,Mechanistic Cubism,机械立体主义
+430,Design_Styles,Expressionism,,Figurative Expressionism,形象表现主义
+431,Design_Styles,Expressionism,,Abstract Expressionism,抽象表现主义
+432,Design_Styles,Neo,,Byzantine,拜占庭式的
+433,Design_Styles,Neo,,Neoclassicism,新古典主义
+434,Design_Styles,Neo,,Neoplasticism,肿瘤性疾病
+435,Design_Styles,Neo,,NeoSon,鑫鑫
+436,Design_Styles,Neo,,Tokyo,东京
+437,Design_Styles,Neo,,Concretism,具体主义
+438,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Psychedelic Design,迷幻设计
+439,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Psychedelia,迷幻主义
+440,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Psychedelica,迷幻药
+441,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Acidwave,酸性波
+442,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,LSD,LSD
+443,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,DMT,DMT
+444,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Kaleidoscope,万花筒
+445,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Teleidoscope,电镜
+446,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Spirograph,Spirograph
+447,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Mandala,曼陀罗
+448,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Flower of Life,生命之花
+449,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Hippie,嬉皮士
+450,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Hyperbolic,双曲线
+451,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Chakra,脉轮
+452,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Aura,傲然
+453,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Ineffable,毋庸置疑
+454,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Transcendent,超越
+455,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Transcendental,超越性
+456,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Sacred Geometry,神圣的几何学
+457,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Soul,灵魂
+458,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Karma,噶玛
+459,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Fractal Art,分形艺术
+460,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Fractal Environment,分形环境
+461,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Mandelbrot,曼德尔布罗特
+462,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Multibrot,多样性
+463,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Mandelbox,杏仁盒
+464,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Mandelbulb,曼德尔布
+465,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Set,设置
+466,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Newton Fractal,牛顿分形
+467,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Noisy,嘈杂
+468,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,White Noise,白噪声
+469,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Cell Noise,细胞噪音
+470,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Perlin Noise,佩林噪声
+471,Design_Styles,"Psychedelic, Divine, Fractal, and Noise",,Simplex Noise,单纯的噪音
+472,Design_Styles,Art Styles,,Lo-fi,松散型
+473,Design_Styles,Art Styles,,Bauhaus Style,包豪斯风格
+474,Design_Styles,Art Styles,,Warhol,沃霍尔
+475,Design_Styles,Art Styles,,Fauvism,浮士德主义
+476,Design_Styles,Art Styles,,Transautomatism,医学研究
+477,Design_Styles,Art Styles,,Cloisonnism,分区
+478,Design_Styles,Art Styles,,Orphism,奥菲斯主义
+479,Design_Styles,Art Styles,,Vorticism,涡流主义
+480,Design_Styles,Art Styles,,Eccentrism,偏心主义
+481,Design_Styles,Art Styles,,Rayonism,雷恩主义
+482,Design_Styles,Art Styles,,Spectralism,光谱主义
+483,Design_Styles,Art Styles,,Muralism,壁画主义
+484,Design_Styles,Art Styles,,Spatialism,空间主义
+485,Design_Styles,Art Styles,,Precisionism,精密主义
+486,Design_Styles,Art Styles,,Regionalism,地区主义
+487,Design_Styles,Art Styles,,Academicism,学术主义
+488,Design_Styles,Art Styles,,Miserablism,怜悯主义
+489,Design_Styles,Art Styles,,Synchronism,同步性
+490,Design_Styles,Art Styles,,Romanticism,浪漫主义
+491,Design_Styles,Art Styles,,Positivism,实证主义
+492,Design_Styles,Art Styles,,Pictorialism,画报主义
+493,Design_Styles,Art Styles,,Tubism,管氏症
+494,Design_Styles,Art Styles,,Naturalism,自然主义
+495,Design_Styles,Art Styles,,Verism,虚心求教
+496,Design_Styles,Art Styles,,Divisionism,分裂主义
+497,Design_Styles,Art Styles,,Nuagisme,努阿基斯梅
+498,Design_Styles,Art Styles,,Sumatraism,苏门答腊主义
+499,Design_Styles,Art Styles,,Anachronism,现代化
+500,Design_Styles,Art Styles,,Synthetism,合成主义
+501,Design_Styles,Art Styles,,Tonalism,调性主义
+502,Design_Styles,Art Styles,,Barbouillage,叨叨
+503,Design_Styles,Art Styles,,Orientalism,东方主义
+504,Design_Styles,Art Styles,,Symbolism,象征意义
+505,Design_Styles,Art Styles,,Lettrism,リトリストラップ
+506,Design_Styles,Art Styles,,Biedermeier,卑德米耶（Biedermeier
+507,Design_Styles,Art Styles,,Purism,纯粹主义
+508,Design_Styles,Art Styles,,Intimism,直观主义
+509,Design_Styles,Art Styles,,Dau al Set,斗牛士套装
+510,Design_Styles,Art Styles,,Art Deco,装饰艺术
+511,Design_Styles,Art Styles,,Art Nouveau,新艺术运动
+512,Design_Styles,Art Styles,,Award Winning Art,获奖的艺术
+513,Design_Styles,Art Styles,,Epic Composition,史诗般的构成
+514,Design_Styles,Art Styles,,Drop Art,水滴艺术
+515,Design_Styles,Art Styles,,Folk Art,民间艺术
+516,Design_Styles,Art Styles,,Postcolonial Art,后殖民主义艺术
+517,Design_Styles,Art Styles,,Renaissance,文艺复兴
+518,Design_Styles,Art Styles,,Medievalism,中世纪主义
+519,Design_Styles,Art Styles,,New Medievalism,新中世纪主义
+520,Design_Styles,Art Styles,,Vienna Secession,维也纳分离主义
+521,Design_Styles,Art Styles,,Lowbrow,低眉毛
+522,Design_Styles,Art Styles,,Figurativism,形象主义
+523,Design_Styles,Art Styles,,Dadaism,达达主义
+524,Design_Styles,Art Styles,,Multidimensional Art,多维艺术
+525,Design_Styles,Art Styles,,Temporary Art,临时艺术
+526,Design_Styles,Art Styles,,Op Art,欧普艺术
+527,Design_Styles,Art Styles,,Fourier Art,傅里叶型
+528,Design_Styles,Art Styles,,Nebulous Art,星云艺术
+529,Design_Styles,Art Styles,,Mozarabic Art,莫扎拉比艺术
+530,Design_Styles,Art Styles,,Anti,反
+531,Design_Styles,Art Styles,,Design,设计
+532,Design_Styles,Art Styles,,Compound Design,复合物设计
+533,Design_Styles,Art Styles,,Grunge Revival Design,格调复兴设计
+534,Design_Styles,Art Styles,,Stuckism,卡住主义
+535,Design_Styles,Art Styles,,Tactile Design,触觉设计
+536,Design_Styles,Art Styles,,Memphis Style,孟菲斯风格
+537,Design_Styles,Art Styles,,Memphis Design,孟菲斯设计
+538,Design_Styles,Art Styles,,Garde,伽德
+539,Design_Styles,Art Styles,,Transavantgarde,跨国企业
+540,Design_Styles,Art Styles,,Frasurbane,愤怒的小鸟
+541,Design_Styles,Art Styles,,Neue Sachlichkeit,新的客观性
+542,Design_Styles,Art Styles,,Triptych,三联画
+543,Design_Styles,Art Styles,,Foreshortening,前端缩短
+544,Design_Styles,Art Styles,,Booru,波鲁
+545,Design_Styles,Art Styles,,Silhouette,剪影
+546,Design_Styles,Art Styles,,Topographic,地形图
+547,Design_Styles,Art Styles,,Chiaroscuro,奇奥色彩
+548,Design_Styles,Art Styles,,Incoherents,相互影响
+549,Design_Styles,Art Styles,,Existential,存在性的
+550,Design_Styles,Art Styles,,Brand,品牌
+551,Design_Styles,Art Styles,,Contemporary,当代
+552,Design_Styles,Art Styles,,Costumbrismo,衣服
+553,Design_Styles,Art Styles,,Amate,伴侣
+554,Design_Styles,Art Styles,,Wuhtercuhler,紫外线照射
+555,Design_Styles,Stylized,,Layered,分层
+556,Design_Styles,Stylized,,Photobash,摄谱网
+557,Design_Styles,Stylized,,Bubble Design,泡沫设计
+558,Design_Styles,Stylized,,Extreme Bubble Design,极端泡沫设计
+559,Design_Styles,Stylized,,Liquify,液化
+560,Design_Styles,Stylized,,Bling,金光闪闪
+561,Design_Styles,Stylized,,Jewel Tones,宝石色调
+562,Design_Styles,Stylized,,Blocky,块状的
+563,Design_Styles,Stylized,,Lissajous,执行
+564,Design_Styles,Stylized,,Interlace,隔行如隔山
+565,Design_Styles,Stylized,,Alignment,统一口径
+566,Design_Styles,Stylized,,Misalignment,错位
+567,Design_Styles,Stylized,,Compression,压缩
+568,Design_Styles,Stylized,,Droste Effect,德罗斯特效应
+569,Design_Styles,Stylized,,Stabilimentum,稳定剂
+570,Design_Styles,Stylized,,Precision,精度
+571,Design_Styles,Stylized,,Qubit,Qubit
+572,Design_Styles,Stylized,,Oddly Satisfying,奇特的满足感
+573,Design_Styles,Other Styles,,Generic,通用型
+574,Design_Styles,Other Styles,,Lossy,损失
+575,Design_Styles,Other Styles,,Rodilius,Rodilius
+576,Design_Styles,Other Styles,,Kerkythea,瑟克提亚(Kerkythea)
+577,Design_Styles,Other Styles,,Mottled,斑纹
+578,Design_Styles,Other Styles,,Oilify,油化
+579,Design_Styles,Other Styles,,Entropy,熵
+580,Design_Styles,Other Styles,,Zalgo,泽尔戈
+581,Design_Styles,Other Styles,,Liminal,边缘化
+582,Design_Styles,Other Styles,,Extreme,极端
+583,Design_Styles,Other Styles,,Elite,精英
+584,Design_Styles,Other Styles,,Artifact,创作
+585,Design_Styles,Other Styles,,Serendipity,偶然性
+586,Design_Styles,Other Styles,,Acidic,酸性
+587,Design_Styles,Other Styles,,Mucida,Mucida
+588,Design_Styles,Other Styles,,Miranda,米兰达
+589,Design_Styles,Other Styles,,Psittacinus,鹦鹉
+590,Design_Styles,Other Styles,,Tint,色调
+591,Design_Styles,Other Styles,,Shade,遮阳板
+592,Digital,Rendering Engines,,Octane,辛烷值
+593,Digital,Rendering Engines,,Cinema4D,Cinema4D
+594,Digital,Rendering Engines,,C4D,C4D
+595,Digital,Rendering Engines,,Unreal Engine,虚幻引擎
+596,Digital,Rendering Engines,,Unity Engine,Unity引擎
+597,Digital,Rendering Engines,,Rendered in Houdini,用Houdini渲染的
+598,Digital,Rendering Engines,,Redshift Render,Redshift Render
+599,Digital,Rendering Engines,,Blender Render,Blender Render
+600,Digital,Rendering Engines,,Cycles Render,Cycles Render
+601,Digital,Rendering Engines,,Povray,波夫雷
+602,Digital,Rendering Engines,,Vray,Vray
+603,Digital,Rendering Engines,,CryEngine,CryEngine
+604,Digital,Rendering Engines,,LuxCoreRender,LuxCoreRender
+605,Digital,Rendering Engines,,Silicon Render,硅树脂渲染
+606,Digital,Rendering Engines,,Raylectron,睿科公司
+607,Digital,Rendering Engines,,Zbrush,Zbrush
+608,Digital,Rendering Engines,,Sketchfab,绘画作品
+609,Digital,Rendering Engines,,OpenGL,OpenGL
+610,Digital,Rendering Engines,,Autodesk 3ds Max,Autodesk 3ds Max
+611,Digital,Rendering Engines,,SketchUp,SketchUp
+612,Digital,Rendering Engines,,Terragen,特拉根
+613,Digital,Resolution,,4k,4k
+614,Digital,Resolution,,8k,8k
+615,Digital,Resolution,,16k,16k
+616,Digital,Resolution,,32k,32k
+617,Digital,Resolution,,Resolution,决议
+618,Digital,Resolution,,144p,144p
+619,Digital,Resolution,,240p,240p
+620,Digital,Resolution,,480p,480p
+621,Digital,Resolution,,720p,720p
+622,Digital,Resolution,,1080p,1080p
+623,Digital,Aspect Ratios and Letterboxing,,Fullscreen,全屏
+624,Digital,Aspect Ratios and Letterboxing,,Widescreen,宽屏
+625,Digital,Aspect Ratios and Letterboxing,,Anamorphic Widescreen,拟态宽屏
+626,Digital,Aspect Ratios and Letterboxing,,Pillarbox,柱子箱
+627,Digital,Aspect Ratios and Letterboxing,,Letterboxing,信箱
+628,Digital,Aspect Ratios and Letterboxing,,Windowbox,窗框
+629,Digital,Digital Styles,,Virtualcore,虛擬核心
+630,Digital,Digital Styles,,Cyberspace,网络空间
+631,Digital,Digital Styles,,Cyberdelic,讯飞公司
+632,Digital,Digital Styles,,Cyberprep,网络预案
+633,Digital,Digital Styles,,Cybernoir,网络之声
+634,Digital,Digital Styles,,Hexatron,Hexatron
+635,Digital,Digital Styles,,Trillwave,Trillwave
+636,Digital,Digital Styles,,Analogpunk,模拟朋克
+637,Digital,Digital Styles,,Digitalpunk,数字朋克
+638,Digital,Digital Styles,,Cyber Minimalism,网络极简主义
+639,Digital,Digital Styles,,Frutiger Aero,弗鲁特格航空
+640,Digital,Digital Styles,,Abstract Tech,摘要技术
+641,Digital,Digital Styles,,Emulated,仿真的
+642,Digital,Digital Styles,,Pixelscape,像素景观
+643,Digital,Digital Styles,,Memecore,梦洁
+644,Digital,Digital Styles,,Old Memecore,老梅梅克尔
+645,Digital,Digital Styles,,Old Web,旧网
+646,Digital,Digital Styles,,Algorithmic,算法
+647,Digital,VFX and Video Companies,,Disney,迪斯尼
+648,Digital,VFX and Video Companies,,Pixar,皮克斯
+649,Digital,VFX and Video Companies,,Dreamworks,梦工厂
+650,Digital,VFX and Video Companies,,IMAX,IMAX
+651,Digital,VFX and Video Companies,,Imageworks,想象框架
+652,Digital,VFX and Video Companies,,Framestore,框架店
+653,Digital,VFX and Video Companies,,Pixomondo,Pixomondo
+654,Digital,VFX and Video Companies,,Luma Pictures,卢马图片
+655,Digital,VFX and Video Companies,,Criterion Collection,标准集
+656,Digital,Art Programs and Applications,,Microsoft Paint,微软绘画
+657,Digital,Art Programs and Applications,,Drawn in Kid Pix,绘制在Kid Pix中
+658,Digital,Art Programs and Applications,,Adobe Lightroom,Adobe Lightroom
+659,Digital,Art Programs and Applications,,Drawn in Illustrator,用Illustrator画的
+660,Digital,Art Programs and Applications,,Adobe Premier,Adobe Premier
+661,Digital,Art Programs and Applications,,After Effects,后期效果
+662,Digital,Art Programs and Applications,,Adobe Flash,Adobe Flash
+663,Digital,Art Programs and Applications,,Shockwave Flashplayer,冲击波Flash播放器
+664,Digital,Art Programs and Applications,,NET,网络
+665,Digital,Art Programs and Applications,,Drawn in GIMP,用GIMP画的
+666,Digital,Art Programs and Applications,,X5,X5
+667,Digital,Art Programs and Applications,,Drawn in Aseprite,在Aseprite画的
+668,Digital,Art Programs and Applications,,Drawn in Pyxel Edit,在Pyxel编辑中绘制
+669,Digital,Image Formats and Types,,Vector Graphics,矢量图
+670,Digital,Image Formats and Types,,Bitmap,位图
+671,Digital,Image Formats and Types,,Jpeg,Jpeg
+672,Digital,Image Formats and Types,,Icon,图标
+673,Digital,Image Formats and Types,,Animated GIF,动画GIF
+674,Digital,Image Formats and Types,,3D Model,三维模型
+675,Digital,Image Formats and Types,,3D Render,三维渲染
+676,Digital,Image Formats and Types,,Precision Rendering,精确渲染
+677,Digital,Image Formats and Types,,Wiremap,线图
+678,Digital,Image Formats and Types,,Rendered Graphics,渲染的图形
+679,Digital,Image Formats and Types,,Physically Based Rendering,基于物理的渲染
+680,Digital,Image Formats and Types,,Holographic,全息的
+681,Digital,Image Formats and Types,,Holography,全息技术
+682,Digital,Image Formats and Types,,Pixel Art,像素艺术
+683,Digital,Image Formats and Types,,Voxel Art,沃克斯尔艺术
+684,Digital,Image Formats and Types,,Perfect,完美
+685,Digital,Image Formats and Types,,ASCII,ASCII
+686,Digital,Image Formats and Types,,Tilemap,瓷砖图
+687,Digital,Image Formats and Types,,NFT,NFT
+688,Digital,Image Formats and Types,,Clip Art,剪贴画
+689,Digital,Image Formats and Types,,Photomontage,照片蒙太奇
+690,Digital,Image Formats and Types,,Stock Photo,库存照片
+691,Digital,Image Formats and Types,,Wallpaper,墙纸
+692,Digital,Image Formats and Types,,Procedural Texture,程序性纹理
+693,Digital,Image Formats and Types,,Algorithmic Art,算术艺术
+694,Digital,Image Formats and Types,,Character Design,角色设计
+695,Digital,Dithering,,Dithering,抖动
+696,Digital,Dithering,,Steinberg Dithering,斯坦伯格的抖动
+697,Digital,Dithering,,Burkes Dithering,布尔克斯抖动
+698,Digital,Dithering,,Stucki Dithering,抖动的Stucki
+699,Digital,Dithering,,Atkinson Dithering,阿特金森抖动
+700,Digital,Dithering,,Ninke Dithering,尼科颤动
+701,Digital,Dithering,,Sierra Dithering,塞拉颤动
+702,Digital,Dithering,,Diffusion Dithering,扩散抖动
+703,Digital,Websites,,Website,网站
+704,Digital,Websites,,Webbrutalism,网络暴力主义
+705,Digital,Websites,,Geocities,地域网
+706,Digital,Websites,,Artstation,Artstation
+707,Digital,Websites,,Trending on Artstation,Artstation上的趋势
+708,Digital,Websites,,Polycount,多样性计数
+709,Digital,Websites,,DeviantArt,DeviantArt
+710,Digital,Websites,,Flickr,Flickr
+711,Digital,Websites,,Social Media,社会媒体
+712,Digital,Websites,,Art on Instagram,Instagram上的艺术
+713,Digital,Websites,,CGSociety,CGSociety
+714,Digital,Websites,,Pixiv,凤凰网
+715,Digital,Websites,,Google Maps,谷歌地图
+716,Digital,Glitchy,,Glitchcore,裂缝核心
+717,Digital,Glitchy,,Matrix,矩阵
+718,Digital,Glitchy,,Glitchy,斑驳的
+719,Digital,Glitchy,,Glitching,突发事件
+720,Digital,Glitchy,,Data Moshing,数据记忆法
+721,Digital,Glitchy,,Datamoshing,数据采集
+722,Digital,Glitchy,,Databending,数据转换
+723,Digital,Glitchy,,Data Manipulation,数据操纵
+724,Digital,Glitchy,,Fuzzing,摸索
+725,Digital,AI and Neural Networks,,AI Generated,AI产生的
+726,Digital,AI and Neural Networks,,Neural Art,神经艺术
+727,Digital,AI and Neural Networks,,Neural Style Transfer,神经系统风格转移
+728,Digital,AI and Neural Networks,,Deep Dream,深度梦想
+729,Digital,AI and Neural Networks,,Generated by Midjourney,由Midjourney生成
+730,Digital,AI and Neural Networks,,e2,e2
+731,Digital,AI and Neural Networks,,Convolutional Features,卷积特征
+732,Digital,AI and Neural Networks,,Image Segmentation,图像分割
+733,Digital,Game System Graphics,,Atari Graphics,雅达利图形
+734,Digital,Game System Graphics,,Atari 2600,雅达利2600
+735,Digital,Game System Graphics,,Atari 2600 Palette,雅达利2600调色板
+736,Digital,Game System Graphics,,Atari ST,雅达利ST
+737,Digital,Game System Graphics,,Atari ST Palette,雅达利ST调色板
+738,Digital,Game System Graphics,,PS1 Graphics,PS1图形
+739,Digital,Game System Graphics,,PS2 Graphics,PS2图形
+740,Digital,Game System Graphics,,PS3 Graphics,PS3图形
+741,Digital,Game System Graphics,,PS4 Graphics,PS4图形
+742,Digital,Game System Graphics,,PS5 Graphics,PS5图形
+743,Digital,Game System Graphics,,PSP Graphics,PSP图形
+744,Digital,Game System Graphics,,PS Vita Graphics,PS Vita图形
+745,Digital,Game System Graphics,,Xbox Graphics,Xbox图形
+746,Digital,Game System Graphics,,Xbox 360 Graphics,Xbox 360图形
+747,Digital,Game System Graphics,,Xbox One Graphics,Xbox One图形
+748,Digital,Game System Graphics,,Xbox One X Graphics,Xbox One X 图形
+749,Digital,Game System Graphics,,NES,NES
+750,Digital,Game System Graphics,,NES Palette,NES调色板
+751,Digital,Game System Graphics,,SNES,SNES
+752,Digital,Game System Graphics,,SNES Palette,SNES系列
+753,Digital,Game System Graphics,,Nintendo 64 Graphics,任天堂64图形
+754,Digital,Game System Graphics,,Wii Graphics,Wii图形
+755,Digital,Game System Graphics,,Wii U Graphics,Wii U的图形
+756,Digital,Game System Graphics,,Nintendo Switch Graphics,任天堂开关图形
+757,Digital,Game System Graphics,,Game Boy,游戏男孩
+758,Digital,Game System Graphics,,Game Boy Color,游戏男孩彩色版
+759,Digital,Game System Graphics,,Game Boy Advance,游戏男孩前进
+760,Digital,Game System Graphics,,Game Boy Advance Palette,游戏男孩高级调色板
+761,Digital,Game System Graphics,,Nintendo DS Graphics,任天堂DS图形
+762,Digital,Game System Graphics,,Nintendo 3DS Graphics,任天堂3DS图形
+763,Digital,Video Game Styles,,Video Game,视频游戏
+764,Digital,Video Game Styles,,Flash Game,Flash游戏
+765,Digital,Video Game Styles,,HD Mod,高清模式
+766,Digital,Video Game Styles,,Gamercore,游戏机核心
+767,Digital,Video Game Styles,,Nintencore,努尔丁核心
+768,Digital,Video Game Styles,,Tetris,俄罗斯方块
+769,Digital,Video Game Styles,,Pacman,吃豆人
+770,Digital,Video Game Styles,,Minecraft,闽南语
+771,Digital,Video Game Styles,,Terraria,泰拉瑞亚
+772,Digital,Video Game Styles,,Roblox,抢滩登陆
+773,Digital,Video Game Styles,,No Mans Sky,无人的天空
+774,Digital,Video Game Styles,,Fallout,陨落
+775,Digital,Video Game Styles,,Skyrim,天空之城
+776,Digital,Video Game Styles,,Polybius,波利比乌斯
+777,Digital,Video Game Styles,,Emulator,仿真器
+778,Digital,Computer System Graphics,,PC Graphics,个人计算机图形
+779,Digital,Computer System Graphics,,Commodore 64,商品房64
+780,Digital,Computer System Graphics,,Commodore 64 Palette,商品房64调色板
+781,Digital,Computer System Graphics,,Commodore 128,Commodore 128
+782,Digital,Computer System Graphics,,Commodore 128 Palette,Commodore 128调色板
+783,Digital,Computer System Graphics,,20,20
+784,Digital,Computer System Graphics,,20 Palette,20 托盘
+785,Digital,Computer System Graphics,,Amiga OCS Graphics,Amiga OCS图形
+786,Digital,Computer System Graphics,,Teletext,大利文
+787,Digital,Computer System Graphics,,Teletext Palette,电文调色板
+788,Digital,Computer System Graphics,,Apple II,苹果II
+789,Digital,Computer System Graphics,,Apple II Palette,苹果II调色板
+790,Digital,Computer System Graphics,,Apple IIGS,苹果 IIGS
+791,Digital,Computer System Graphics,,IIGS Graphics,IIGS图形
+792,Digital,Computer System Graphics,,Apple IIGS Palette,苹果IIGS系列
+793,Digital,Computer System Graphics,,ZX Spectrum,ZX Spectrum
+794,Digital,Computer System Graphics,,ZX Spectrum Palette,ZX Spectrum调色板
+795,Digital,Computer System Graphics,,Mattel Aquarius,美泰水瓶座
+796,Digital,Computer System Graphics,,Mattel Aquarius Palette,美泰宝瓶座调色板
+797,Digital,Operating Systems,,95,95
+798,Digital,Operating Systems,,XP,XP
+799,Digital,Operating Systems,,10,10
+800,Digital,Operating Systems,,11,11
+801,Digital,Operating Systems,,MacOS,MacOS
+802,Digital,Operating Systems,,Ubuntu,乌班图
+803,Digital,Other,,90s Computer Graphics,90年代的计算机图形学
+804,Digital,Other,,1990s Computer Graphics,1990年代的计算机图形学
+805,Digital,Other,,Cellular Automata,细胞自动机
+806,Digital,Other,,s Game of Life,的生命游戏
+807,Digital,Other,,Macroblock,巨型块
+808,Digital,Other,,Photoillustration,图片说明
+809,Digital,Other,,Capcha,帽查
+810,Digital,Other,,Recapcha,录音带
+811,Dimensionality,0D-5D,,2D,2D
+812,Dimensionality,0D-5D,,3D,3D
+813,Dimensionality,0D-5D,,4D,4D
+814,Dimensionality,"Overdimensional, Multiverse, etc.",,Underdimensional,低维度
+815,Dimensionality,"Overdimensional, Multiverse, etc.",,Subdimensional,次维度
+816,Dimensionality,"Overdimensional, Multiverse, etc.",,Everdimensional,常维
+817,Dimensionality,"Overdimensional, Multiverse, etc.",,Multiverse,多重宇宙
+1072,Experimental,Made-up Artists,,Painted by Vincent Bob Gray,文森特-鲍勃-格雷
+1073,Experimental,Made-up Artists,,Painted by Redrick J Hubedrin,Redrick J Hubedrin
+1074,Experimental,Made-up Artists,,Painted by Leandrew Bengolstein,Leandrew Bengolstein
+1075,Experimental,Made-up Artists,,Art by Rickolas Veneyfield,Rickolas Veneyfield
+1076,Experimental,Made-up Artists,,Art by Gandelif Jamarison,甘德夫-贾玛里森
+1077,Experimental,Made-up Words,,Halometric Patterns,Halometric
+1078,Experimental,Made-up Words,,Lumametric,荧光剂
+1079,Experimental,Made-up Words,,Nortonious,Nortonious
+1080,Experimental,Made-up Words,,Proporastable,可持续发展
+1081,Experimental,Made-up Words,,Prospeartented,有前途的
+1082,Experimental,Made-up Words,,Psychromvolucence,心理波动
+1083,Experimental,Made-up Words,,Shimmavolucent,微妙的透明性
+1084,Experimental,Made-up Words,,Transchromacy,跨国并购
+1085,Experimental,Made-up Words,,Origummy,奥利古米
+1086,Experimental,Known Made-up Words,,Supercalifragilisticexpialidocious,超级霹雳雳火
+1087,Experimental,Known Made-up Words,,Fiddlededee,翡冷翠
+1088,Experimental,Chaos Prompts,,qwje90qhj329r,qwje90qhj329r
+2273,Themes,Realism/Abstraction,,Realistic,现实的
+2274,Themes,Realism/Abstraction,,Hyper Real,超真实
+2275,Themes,Realism/Abstraction,,Photorealistic,写实的
+2276,Themes,Realism/Abstraction,,Realism,现实主义
+2277,Themes,Realism/Abstraction,,Magic Realism,魔幻现实主义
+2278,Themes,Realism/Abstraction,,Fantastic Realism,奇妙的现实主义
+2279,Themes,Realism/Abstraction,,Classical Realism,古典现实主义
+2280,Themes,Realism/Abstraction,,Contemporary Realism,当代现实主义
+2281,Themes,Realism/Abstraction,,Surreal,超现实的
+2282,Themes,Realism/Abstraction,,Unrealistic,不切实际
+2283,Themes,Realism/Abstraction,,Science Fiction,科幻小说
+2284,Themes,Realism/Abstraction,,Imagined,想象中的
+2285,Themes,Realism/Abstraction,,Imaginative,富有想象力的
+2286,Themes,Realism/Abstraction,,Imagination,想象力
+2287,Themes,Realism/Abstraction,,Dream,梦想
+2288,Themes,Realism/Abstraction,,Dreamcore,梦想核心
+2289,Themes,Realism/Abstraction,,Weirdcore,诡异的核心
+2290,Themes,Realism/Abstraction,,Worldly,世俗的
+2291,Themes,Realism/Abstraction,,Otherworldly,异世界的
+2292,Themes,Realism/Abstraction,,Unworldly,非世界性的
+2293,Themes,Realism/Abstraction,,From Another Realm,来自另一个世界的人
+2294,Themes,Realism/Abstraction,,Wonderland,仙境
+2295,Themes,Realism/Abstraction,,Lucid,琉璃体
+2296,Themes,Realism/Abstraction,,Ethereal,虚无缥缈
+2297,Themes,Realism/Abstraction,,Anemoiacore,蚂蚁金服
+2298,Themes,Realism/Abstraction,,Déjà vu,似曾相识的感觉
+2299,Themes,Realism/Abstraction,,Abstract,摘要
+2300,Themes,Realism/Abstraction,,Abstraction,抽象法
+2301,Themes,Realism/Abstraction,,Lyrical Abstraction,抒情抽象
+2302,Themes,Realism/Abstraction,,Fantasy,幻想
+2303,Themes,Realism/Abstraction,,Ethereal Fantasy,空灵的幻想
+2304,Themes,Realism/Abstraction,,Dark Fantasy,黑暗幻想
+2305,Themes,Realism/Abstraction,,Fantasy Map,幻想地图
+2306,Themes,Realism/Abstraction,,Illusion,幻觉
+2307,Themes,Realism/Abstraction,,Impossible,不可能的
+2308,Themes,Realism/Abstraction,,Nonsense,胡说八道
+2309,Themes,Realism/Abstraction,,Immaterial,不重要
+2310,Themes,Retro/Modern,,Retro,复古
+2311,Themes,Retro/Modern,,Retrowave,复古波
+2312,Themes,Retro/Modern,,Nostalgiacore,怀旧的人
+2313,Themes,Retro/Modern,,Nostalgia,怀旧情结
+2314,Themes,Retro/Modern,,Antique,古董
+2315,Themes,Retro/Modern,,Prehistoricore,历史学家
+2316,Themes,Retro/Modern,,Jurassic,侏罗纪
+2317,Themes,Retro/Modern,,Ice Age,冰河时代
+2318,Themes,Retro/Modern,,Wild West,狂野西部
+2319,Themes,Retro/Modern,,Modern,现代
+2320,Themes,Retro/Modern,,Modernismo,现代主义
+2321,Themes,Retro/Modern,,Future Funk,未来乐章
+2322,Themes,Retro/Modern,,Cassette Futurism,卡带式未来主义
+2323,Themes,Retro/Modern,,Afrofuturist,非洲未来主义者
+2645,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Cyberpunk,赛博朋克
+2646,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Postcyberpunk,后cyberpunk
+2647,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Cuberpunk,古巴朋克
+2648,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Bronzepunk,青铜色朋克（Bronzepunk
+2649,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Steelpunk,钢筋混凝土
+2650,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Clockpunk,时钟朋克
+2651,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Icepunk,Icepunk
+2652,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Stonepunk,石头朋克
+2653,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Swordpunk,剑客》（Swordpunk
+2654,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Steampunk,蒸汽朋克
+2655,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Dieselpunk,柴油朋克
+2656,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Gadgetpunk,小工具朋克（Gadgetpunk
+2657,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Atompunk,阿托姆邦克
+2658,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Nanopunk,纳米朋克
+2659,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Aetherpunk,醚朋克（Aetherpunk
+2660,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Solarpunk,太阳朋克
+2661,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Lunarpunk,月光朋克
+2662,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Biopunk,生物朋克
+2663,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Forestpunk,森林朋克
+2664,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Islandpunk,岛国朋克
+2665,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Seapunk,海派克
+2666,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Decopunk,颓废朋克
+2667,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Cassettepunk,卡赛特朋克
+2668,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Formicapunk,形状朋克
+2669,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Salvagepunk,救世朋克
+2670,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Silkpunk,丝绸朋克
+2671,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Sandalpunk,桑德朋克
+2672,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Dreampunk,德瑞庞克
+2673,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Daydreampunk,昼夜颠倒
+2674,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Magicpunk,魔法朋克
+2675,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Fractalpunk,分形朋克
+2676,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Rococopunk,洛克朋克
+2677,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Pastelpunk,帕斯特朋克
+2678,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Neonpunk,霓虹朋克
+2679,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Legopunk,Legopunk
+2680,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Legogearpunk,乐高积木
+2681,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Catholicpunk,天主教朋克
+2682,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Dollpunk,杜尔朋克
+2683,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Clownpunk,克隆庞克(Clownpunk)
+2684,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Hermitpunk,隐士朋克
+2685,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Folk Punk,民谣朋克
+2686,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Europunk,欧洲朋克
+2687,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Dracopunk,Dracopunk
+2688,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Mythpunk,神话朋克
+2689,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Cargopunk,卡哥朋克
+2690,Themes,"Punk Styles (Steampunk, Cyberpunk, etc.)",,Slimepunk,瘦身朋克
+2691,Themes,Other Themes,,Cystalcore,Cystalcore
+2692,Themes,Other Themes,,Sparklecore,閃亮的核心
+2693,Themes,Other Themes,,Pastelwave,粉彩浪
+2694,Themes,Other Themes,,Rainbowcore,虹彩核心
+2695,Themes,Other Themes,,Glowwave,辉光波
+2696,Themes,Other Themes,,Glo-Fi,伽罗-菲
+2697,Themes,Other Themes,,Lightcore,光芯
+2698,Themes,Other Themes,,Rollerwave,辊子波
+2699,Themes,Other Themes,,Gourmet,美食家
+2700,Themes,Other Themes,,Corrupt,腐败
+2701,Themes,Other Themes,,Corrupted,腐败的
+2702,Themes,Other Themes,,Cleancore,清芯
+2703,Themes,Other Themes,,Safetycore,安全核心
+2704,Themes,Other Themes,,Warmcore,暖核
+2705,Themes,Other Themes,,Grandparentcore,祖父母核心
+2706,Themes,Other Themes,,Lovecore,爱的核心
+2707,Themes,Other Themes,,Happycore,快乐核心
+2708,Themes,Other Themes,,Smilecore,微笑核心
+2709,Themes,Other Themes,,Academia,学院
+2710,Themes,Other Themes,,Poetcore,诗芯
+2711,Themes,Other Themes,,Villagecore,乡村振兴
+2712,Themes,Other Themes,,Dragoncore,龙芯
+2713,Themes,Other Themes,,Knightcore,骑士核心
+2714,Themes,Other Themes,,Roguecore,洛克菲勒（Roguecore）
+2715,Themes,Other Themes,,Royalcore,皇家核心
+2716,Themes,Other Themes,,Princecore,创始人
+2717,Themes,Other Themes,,Princesscore,公主核心
+2718,Themes,Other Themes,,Unicorncore,统一的核心
+2719,Themes,Other Themes,,Selkiecore,硒基科
+2720,Themes,Other Themes,,Villaincore,小人国
+2721,Themes,Other Themes,,Clowncore,克劳恩科
+2722,Themes,Other Themes,,Tinycore,小芯
+2723,Themes,Other Themes,,Miniaturecore,微型核心
+2724,Themes,Other Themes,,Miniature World,微型世界
+2725,Themes,Other Themes,,Heatwave,热浪
+2726,Themes,Other Themes,,Cartoon,卡通
+2727,Themes,Other Themes,,Marvel Comics,惊奇漫画
+2728,Themes,Other Themes,,Anime,动漫
+2729,Themes,Other Themes,,Animecore,兴发娱乐官网手机版
+2730,Themes,Other Themes,,Kawaii,卡瓦伊
+2731,Themes,Other Themes,,Eerie,阴森恐怖
+2732,Themes,Other Themes,,Vast,回复
+2733,Themes,Other Themes,,Escapism,逃避主义
+2734,Themes,Other Themes,,Ligne Claire,清除线
+2735,Themes,Other Themes,,Gloomcore,Gloomcore
+2736,Themes,Other Themes,,Dullcore,钝核
+2737,Themes,Other Themes,,Dazecore,大智若愚
+2738,Themes,Other Themes,,Sleepycore,沉睡的核心
+2739,Themes,Other Themes,,Kidcore,孩童核心
+2740,Themes,Other Themes,,Tweencore,特温核心
+2741,Themes,Other Themes,,Scoutcore,侦察兵核心
+2742,Themes,Other Themes,,Brocore,锦上添花
+2743,Themes,Other Themes,,Existentialism,存在主义
+2744,Themes,Other Themes,,Lovecraftian,爱因斯坦
+2745,Themes,Other Themes,,Bohemianism,波西米亚主义
+2746,Themes,Other Themes,,Honeycore,蜂蜜核心
+2747,Themes,Other Themes,,Jamcore,酱核
+2748,Themes,Other Themes,,Materialisimo,材料
+2757,TV_and_Movies,Anime,,Akira,明
+2758,TV_and_Movies,Anime,,Attack on Titan,攻击泰坦
+2759,TV_and_Movies,Anime,,Bakuman,巴库曼
+2760,TV_and_Movies,Anime,,Code Geass,代码Geass
+2761,TV_and_Movies,Anime,,Cowboy Bebop,牛仔Bebop
+2762,TV_and_Movies,Anime,,Death Note,死亡笔记
+2763,TV_and_Movies,Anime,,Detective Conan,侦探柯南
+2764,TV_and_Movies,Anime,,Dr Stone,斯通博士
+2765,TV_and_Movies,Anime,,Dragon Ball Z,龙珠Z
+2766,TV_and_Movies,Anime,,Fullmetal Alchemist,炼金术士》（Fullmetal Alchemist
+2767,TV_and_Movies,Anime,,Gintama,银泰》杂志
+2768,TV_and_Movies,Anime,,Great Teacher Onizuka,伟大的鬼塚老师
+2769,TV_and_Movies,Anime,,Gurren Lagann,Gurren Lagann
+2770,TV_and_Movies,Anime,,Haikyu,海奎
+2771,TV_and_Movies,Anime,,Hajime no Ippo,姬之一波》（Hajime no Ippo
+2772,TV_and_Movies,Anime,,Hunter x Hunter,猎人x猎人
+2773,TV_and_Movies,Anime,,Inuyasha,犬夜叉
+2774,TV_and_Movies,Anime,,Jojos Bizzare Adventures,乔乔斯的怪异冒险之旅
+2775,TV_and_Movies,Anime,,Jujutsu Kaisen,菊花会
+2776,TV_and_Movies,Anime,,Kimetsu no Yaiba (Demon Slayer),屠魔者》（Kimetsu no Yaiba）
+2777,TV_and_Movies,Anime,,Koe no Katachi,恋恋不舍
+2778,TV_and_Movies,Anime,,Mob_Psycho_100,梦之城_梦之城娱乐_梦之城国际娱乐_梦之城国际娱乐平台_梦之城国际娱乐平台100
+2779,TV_and_Movies,Anime,,My Hero Academia,我的英雄学院
+2780,TV_and_Movies,Anime,,Naruto,火影忍者
+2781,TV_and_Movies,Anime,,One Piece,一件事
+2782,TV_and_Movies,Anime,,Ruroni Kenshin,卢罗尼-肯辛
+2783,TV_and_Movies,Anime,,Spirited Away,飞驰》（Spirited Away
+2784,TV_and_Movies,Anime,,Steins Gate,石门
+2785,TV_and_Movies,Anime,,Sword Art Online,剑侠情缘在线
+2786,TV_and_Movies,Anime,,Vinland Saga,文兰传奇

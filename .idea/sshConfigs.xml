@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="ssh5.vast.ai" id="103a91ab-38ab-4def-b708-133ceb83bfbd" localPort="8080" port="10552" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</project>

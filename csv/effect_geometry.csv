@@ -1,0 +1,99 @@
+,Main Category,Child Category,GrandChild Category,Prompt,Translate
+1089,Geometry,2D Shapes,,Point,观点
+1090,Geometry,2D Shapes,,Dot,点
+1091,Geometry,2D Shapes,,Line,线路
+1092,Geometry,2D Shapes,,Curve,曲线
+1093,Geometry,2D Shapes,,Bezier Curve,贝赛尔曲线
+1094,Geometry,2D Shapes,,Square,方形
+1095,Geometry,2D Shapes,,Heptagon,海普顿
+1096,Geometry,2D Shapes,,Nonagon,壬辰倭乱
+1097,Geometry,2D Shapes,,Decagon,十角形
+1098,Geometry,2D Shapes,,Parallelogram,平行四边形
+1099,Geometry,2D Shapes,,Rhombus,菱形
+1100,Geometry,2D Shapes,,Star,星级
+1101,Geometry,2D Shapes,,Heart,心脏
+1102,Geometry,2D Shapes,,Spirangle,斯皮尔格
+1103,Geometry,3D Shapes,,Cube,立方体
+1104,Geometry,3D Shapes,,Cuboid,长方体
+1105,Geometry,3D Shapes,,Sphere,球体
+1106,Geometry,3D Shapes,,Cylinder,汽缸
+1107,Geometry,3D Shapes,,Torus,托鲁斯
+1108,Geometry,3D Shapes,,Pyramid,金字塔
+1109,Geometry,3D Shapes,,Cone,锥体
+1110,Geometry,3D Shapes,,Rectangular Prism,矩形棱镜
+1111,Geometry,3D Shapes,,Star Prism,星棱镜
+1112,Geometry,3D Shapes,,Wedge,楔形
+1113,Geometry,3D Shapes,,Zonohedron,二次方体
+1114,Geometry,3D Shapes,,Tetrahedron,四面体
+1115,Geometry,3D Shapes,,Octahedron,八面体
+1116,Geometry,3D Shapes,,Dodecahedron,十二面体
+1117,Geometry,3D Shapes,,Icosahedron,二十面体
+1118,Geometry,3D Shapes,,Poinsot Polyhedra,庞索多面体
+1119,Geometry,3D Shapes,,Cuboctahedron,立体八面体
+1120,Geometry,3D Shapes,,Rhombicuboctahedron,菱形正八面体
+1121,Geometry,3D Shapes,,Icosidodecahedron,伊科斯十二面体
+1122,Geometry,3D Shapes,,Rhombicosidodecahedron,菱形十二面体
+1123,Geometry,3D Shapes,,Cupola,冲天炉
+1124,Geometry,3D Shapes,,Anticupola,安提古波拉
+1125,Geometry,3D Shapes,,Hypercupolae,下丘脑
+1126,Geometry,3D Shapes,,Bicupola,Bicupola
+1127,Geometry,3D Shapes,,Frustum,福禄寿
+1128,Geometry,3D Shapes,,Bifrustum,Bifrustum
+1129,Geometry,3D Shapes,,Rotunda,旋转大厅
+1130,Geometry,3D Shapes,,Birotunda,生物园地
+1131,Geometry,3D Shapes,,Scutoid,Scutoid
+1132,Geometry,3D Shapes,,Bipyramid,双金字塔
+1133,Geometry,3D Shapes,,Star Bipyramid,星际双金字塔
+1134,Geometry,3D Shapes,,Antiprism,反棱镜
+1135,Geometry,3D Shapes,,Star Trapezohedron,星形梯形体
+1136,Geometry,3D Shapes,,Spherical Polyhedron,球形多面体
+1137,Geometry,3D Shapes,,Mobius Strip,莫比乌斯带
+1138,Geometry,3D Shapes,,Miura Fold,三浦褶皱
+1139,Geometry,4D Hyper Shapes,,Hyperplane,超平面
+1140,Geometry,4D Hyper Shapes,,Hypersurface,超表面
+1141,Geometry,4D Hyper Shapes,,Hypercube,超立方体
+1142,Geometry,4D Hyper Shapes,,Tesseract,宇宙魔方
+1143,Geometry,4D Hyper Shapes,,Hyperprism,超棱镜
+1144,Geometry,4D Hyper Shapes,,Hypersphere,超球体
+1145,Geometry,4D Hyper Shapes,,Hypercylinder,超级圆柱体
+1146,Geometry,4D Hyper Shapes,,Hypertorus,高血脂
+1147,Geometry,4D Hyper Shapes,,Hyperpyramid,超级金字塔
+1148,Geometry,4D Hyper Shapes,,Hypercone,亢龙有悔
+1149,Geometry,4D Hyper Shapes,,Klein Bottle,小瓶装
+1150,Geometry,4D Hyper Shapes,,Hyperzonohedron,超宗面体
+1151,Geometry,4D Hyper Shapes,,Hypertetrahedron,超四面体
+1152,Geometry,4D Hyper Shapes,,Hyperoctahedron,次八面体
+1153,Geometry,4D Hyper Shapes,,Hyperdodecahedron,超十二面体
+1154,Geometry,4D Hyper Shapes,,Hypericosahedron,双十面体
+1155,Geometry,4D Hyper Shapes,,Flexible Polyhedron,灵活的多面体
+1156,Geometry,Degenerate Shapes,,Monogon,梦之城_梦之城娱乐_梦之城国际娱乐_梦之城国际娱乐平台
+1157,Geometry,Degenerate Shapes,,Digon,迪贡
+1158,Geometry,Geometric Styles,,Geometric,几何图形
+1159,Geometry,Geometric Styles,,Euclidian,欧几里得
+1160,Geometry,Geometric Styles,,Polygon,蓼蓝
+1161,Geometry,Geometric Styles,,Platonic Solids,柏拉图实体
+1162,Geometry,Geometric Styles,,Archimedean Solids,阿基米德实体
+1163,Geometry,Geometric Styles,,Catalan Solids,加泰罗尼亚语固体
+1164,Geometry,Geometric Properties,,Vertex,顶点
+1165,Geometry,Geometric Properties,,Edge,边缘
+1166,Geometry,Geometric Properties,,Surface,表面
+1167,Geometry,Geometric Properties,,Exterior,外观
+1168,Geometry,Geometric Properties,,Anterior,上一篇
+1169,Geometry,Geometric Properties,,Convex,凸面
+1170,Geometry,Geometric Properties,,Concave,凹型
+1171,Geometry,Geometric Properties,,Asymmetric,非对称性
+1172,Geometry,Geometric Properties,,Equiangular,等离子型
+1173,Geometry,Geometric Properties,,Equilateral,等边
+1174,Geometry,Geometric Properties,,Cyclic,周期性的
+1175,Geometry,Geometric Properties,,Tangential,切线
+1176,Geometry,Geometric Properties,,Rectilinear,直线型
+1177,Geometry,Geometric Properties,,Traverse,頝甇
+1178,Geometry,Geometric Properties,,Quasi,几乎
+1179,Geometry,Geometric Properties,,Regular,常规
+1180,Geometry,Geometric Properties,,Isogonal,等效性
+1181,Geometry,Geometric Properties,,Isotoxal,异托克索尔
+1182,Geometry,Geometric Properties,,Stellation,卫星定位
+1183,Geometry,Geometric Properties,,Ehrhart Polynomial,艾尔哈特多项式
+1184,Geometry,Geometric Properties,,Ideal Polyhedron,理想的多面体
+1185,Geometry,Topology Styles,,Topology,拓扑结构
+1186,Geometry,Topology Styles,,Topological,拓扑学

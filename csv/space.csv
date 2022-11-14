@@ -1,0 +1,190 @@
+,Main Category,Child Category,GrandChild Category,Prompt,Translate
+2426,Themes,Urban/Rural,,Urban,城市
+2427,Themes,Urban/Rural,,Urbancore,城市核心
+2428,Themes,Urban/Rural,,Urban Exploration,城市探索
+2429,Themes,Urban/Rural,,Rural,农村
+2430,Themes,Urban/Rural,,Ruralcore,农村核心
+2431,Themes,Urban/Rural,,Adventurecore,冒险核心
+2432,Themes,Urban/Rural,,Hikecore,Hikecore
+2433,Themes,Urban/Rural,,Prairiecore,燎原之心
+2434,Themes,Urban/Rural,,Farmcore,农场核心
+2435,Themes,Urban/Rural,,Countrycore,国家核心
+2436,Themes,Urban/Rural,,Tavernwave,小酒馆之波
+2437,Themes,Urban/Rural,,Cabincore,卡宾核心
+2438,Themes,Urban/Rural,,Cottagecore,山寨版
+2439,Themes,Rooms,,Outside,外围
+2440,Themes,Rooms,,Living Room,客厅
+2441,Themes,Rooms,,Lounge,休息室
+2442,Themes,Rooms,,Den,穴位
+2443,Themes,Rooms,,Front Room,前厅
+2444,Themes,Rooms,,Dining Room,饭厅
+2445,Themes,Rooms,,Kitchen,厨房
+2446,Themes,Rooms,,Bedroom,卧室
+2447,Themes,Rooms,,Guest Room,客房
+2448,Themes,Rooms,,Bathroom,卫生间
+2449,Themes,Rooms,,Hallway,走廊
+2450,Themes,Rooms,,Passageway,通道
+2451,Themes,Rooms,,Greenhouse,温室
+2452,Themes,Rooms,,Atrium,中庭
+2453,Themes,Rooms,,Conservatory,保育院
+2454,Themes,Rooms,,Study,研究
+2455,Themes,Rooms,,Library,图书馆
+2456,Themes,Rooms,,Attic,阁楼
+2457,Themes,Rooms,,Crawlspace,地下空间
+2458,Themes,Rooms,,Basement,地下室
+2459,Themes,Rooms,,Rooftop,屋顶
+2460,Themes,Rooms,,Underground,地下
+2461,Themes,Rooms,,Storage Room,储藏室
+2462,Themes,Rooms,,Closet,壁橱
+2463,Themes,Rooms,,Laundry Room,洗衣房
+2464,Themes,Rooms,,Utility Room,杂物室
+2465,Themes,Rooms,,Garage,车库
+2466,Themes,Rooms,,Shed,棚屋
+2467,Themes,Rooms,,Porch,门廊
+2468,Themes,Rooms,,Balcony,阳台
+2469,Themes,Rooms,,Game Room,游戏室
+2470,Themes,Rooms,,Home Theater,家庭影院
+2471,Themes,Rooms,,Gym Room,健身房
+2472,Themes,Rooms,,Nursery,苗圃
+2473,Themes,Rooms,,Prayer Room,祈祷室
+2500,Themes,Biomes and Landscapes,,Woodland,林地
+2501,Themes,Biomes and Landscapes,,Forest,森林
+2502,Themes,Biomes and Landscapes,,Rainforest,雨林
+2503,Themes,Biomes and Landscapes,,Coniferous Forest,针叶林
+2504,Themes,Biomes and Landscapes,,Deciduous Forest,落叶林
+2505,Themes,Biomes and Landscapes,,Jungle,丛林
+2506,Themes,Biomes and Landscapes,,Junglecore,丛林核心
+2507,Themes,Biomes and Landscapes,,Tropical,热带
+2508,Themes,Biomes and Landscapes,,Thicket,灌木丛
+2509,Themes,Biomes and Landscapes,,Orchard,果园
+2510,Themes,Biomes and Landscapes,,Chaparral,坼裂
+2511,Themes,Biomes and Landscapes,,Scrubland,灌丛地
+2512,Themes,Biomes and Landscapes,,Shrubland,灌木丛地
+2513,Themes,Biomes and Landscapes,,Heathland,石楠地
+2514,Themes,Biomes and Landscapes,,Plains,平原地区
+2515,Themes,Biomes and Landscapes,,Meadow,梅朵
+2516,Themes,Biomes and Landscapes,,Prairie,草原地区
+2517,Themes,Biomes and Landscapes,,Steppe,草原
+2518,Themes,Biomes and Landscapes,,Valley,山谷
+2519,Themes,Biomes and Landscapes,,Foothills,山脚下
+2520,Themes,Biomes and Landscapes,,Grove,格罗夫
+2521,Themes,Biomes and Landscapes,,Mangrove,红树林
+2522,Themes,Biomes and Landscapes,,Bayou,巴伊欧
+2523,Themes,Biomes and Landscapes,,Wetland,湿地
+2524,Themes,Biomes and Landscapes,,Muskeg,穆斯克格
+2525,Themes,Biomes and Landscapes,,Fen,凤姐
+2526,Themes,Biomes and Landscapes,,Tundra,苔原
+2527,Themes,Biomes and Landscapes,,Glacier,冰川
+2528,Themes,Biomes and Landscapes,,Arctic,北极
+2529,Themes,Biomes and Landscapes,,Desert,沙漠
+2530,Themes,Biomes and Landscapes,,Desertwave,沙漠之波
+2531,Themes,Biomes and Landscapes,,Dunes,沙丘
+2532,Themes,Biomes and Landscapes,,Savanna,萨凡纳
+2533,Themes,Biomes and Landscapes,,Dryland,旱地
+2534,Themes,Biomes and Landscapes,,Beach,海滩
+2535,Themes,Biomes and Landscapes,,Sea,海
+2536,Themes,Biomes and Landscapes,,Deep Sea,深海
+2537,Themes,Biomes and Landscapes,,Ocean,海洋
+2538,Themes,Biomes and Landscapes,,Ocean Grunge,海洋格调
+2539,Themes,Biomes and Landscapes,,Pond,塘边
+2540,Themes,Biomes and Landscapes,,River,河流
+2541,Themes,Biomes and Landscapes,,Lake,湖泊
+2542,Themes,Biomes and Landscapes,,Waterfall,瀑布
+2543,Themes,Biomes and Landscapes,,Coral Reef,珊瑚礁
+2544,Themes,Biomes and Landscapes,,Reefwave,礁波
+2545,Themes,Biomes and Landscapes,,Kelp Forest,海带森林
+2546,Themes,Biomes and Landscapes,,Estuary,河口
+2547,Themes,Biomes and Landscapes,,Floodplain,洪水区
+2548,Themes,Biomes and Landscapes,,Hot Springs,温泉
+2549,Themes,Biomes and Landscapes,,Canyon,峡谷
+2550,Themes,Biomes and Landscapes,,Mountains,山区
+2551,Themes,Biomes and Landscapes,,Crag,峭壁
+2552,Themes,Biomes and Landscapes,,Volcano,火山
+2553,Themes,Biomes and Landscapes,,Cave,洞穴
+2554,Themes,Nature,,Naturecore,自然核心
+2555,Themes,Nature,,Atmosphere,气氛
+2556,Themes,Nature,,Environment,环境
+2557,Themes,Nature,,Bloomcore,布卢姆核心
+2558,Themes,Nature,,Flowercore,花芯
+2559,Themes,Nature,,Mosscore,莫斯科
+2560,Themes,Nature,,Mushroomcore,蘑菇芯
+2561,Themes,Nature,,Organic,有机的
+2562,Themes,Nature,,Lush,Lush
+2563,Themes,Nature,,Garden,花园
+2564,Themes,Nature,,Creature,生物
+2565,Themes,Nature,,Frogcore,蛙芯
+2566,Themes,Nature,,Paleocore,苍老师
+2567,Themes,Nature,,Crowcore,Crowcore
+2568,Themes,Nature,,Ravencore,锐高公司
+2569,Themes,Nature,,Underwater,水下
+2570,Themes,Nature,,Nautical,航海类
+2571,Themes,Nature,,Wetcore,润芯
+2572,Themes,Nature,,Anthropomorphic,拟人化的
+2573,Themes,Nature,,Nautical Nonsense,航海的胡说八道
+2574,Themes,Seasons and Weather,,Seasons,季节
+2575,Themes,Seasons and Weather,,Spring,春天
+2576,Themes,Seasons and Weather,,Summer,夏天
+2577,Themes,Seasons and Weather,,Autumn,秋季
+2578,Themes,Seasons and Weather,,Winter,冬季
+2579,Themes,Seasons and Weather,,Overcast,阴天
+2580,Themes,Seasons and Weather,,Weathercore,天气核心
+2581,Themes,Seasons and Weather,,Breeze,微风
+2582,Themes,Seasons and Weather,,Wind,风
+2583,Themes,Seasons and Weather,,Rain,雨
+2584,Themes,Seasons and Weather,,Downpour,倾盆大雨
+2585,Themes,Seasons and Weather,,Sleet,霙
+2586,Themes,Seasons and Weather,,Hail,欢呼声
+2587,Themes,Seasons and Weather,,Lightning Bolt,闪电
+2588,Themes,Seasons and Weather,,Lightningwave,闪电波
+2589,Themes,Seasons and Weather,,Hurricane,飓风
+2590,Themes,Seasons and Weather,,Tornado,龙卷风
+2591,Themes,Seasons and Weather,,Microburst,微爆
+2592,Themes,Seasons and Weather,,Storm,风暴
+2593,Themes,Seasons and Weather,,Stormy,暴风影音
+2594,Themes,Seasons and Weather,,Sandstorm,沙尘暴
+2595,Themes,Seasons and Weather,,Heat,热量
+2596,Themes,Seasons and Weather,,Eruption,爆发
+2597,Themes,Seasons and Weather,,Tsunami,海啸
+2598,Themes,Seasons and Weather,,Flood,洪水
+2599,Themes,Seasons and Weather,,Flooded,被淹没
+2600,Themes,Seasons and Weather,,Time Photograph,时间照片
+2614,Themes,Time of Day,,Morning,早晨
+2615,Themes,Time of Day,,Midday,中午时分
+2616,Themes,Time of Day,,Noon,中午
+2617,Themes,Time of Day,,Afternoon,下午
+2618,Themes,Time of Day,,Dusk,黄昏
+2619,Themes,Time of Day,,Night,夜间
+2620,Themes,Time of Day,,Midnight,午夜
+2621,Themes,Time of Day,,Twilight,暮光之城
+2622,Themes,Time of Day,,Dawn,曙光
+2574,Themes,Seasons and Weather,,Seasons,季节
+2575,Themes,Seasons and Weather,,Spring,春天
+2576,Themes,Seasons and Weather,,Summer,夏天
+2577,Themes,Seasons and Weather,,Autumn,秋季
+2578,Themes,Seasons and Weather,,Winter,冬季
+2579,Themes,Seasons and Weather,,Overcast,阴天
+2580,Themes,Seasons and Weather,,Weathercore,天气核心
+2581,Themes,Seasons and Weather,,Breeze,微风
+2582,Themes,Seasons and Weather,,Wind,风
+2583,Themes,Seasons and Weather,,Rain,雨
+2584,Themes,Seasons and Weather,,Downpour,倾盆大雨
+2585,Themes,Seasons and Weather,,Sleet,霙
+2586,Themes,Seasons and Weather,,Hail,欢呼声
+2587,Themes,Seasons and Weather,,Lightning Bolt,闪电
+2588,Themes,Seasons and Weather,,Lightningwave,闪电波
+2589,Themes,Seasons and Weather,,Hurricane,飓风
+2590,Themes,Seasons and Weather,,Tornado,龙卷风
+2591,Themes,Seasons and Weather,,Microburst,微爆
+2592,Themes,Seasons and Weather,,Storm,风暴
+2593,Themes,Seasons and Weather,,Stormy,暴风影音
+2594,Themes,Seasons and Weather,,Sandstorm,沙尘暴
+2595,Themes,Seasons and Weather,,Heat,热量
+2596,Themes,Seasons and Weather,,Eruption,爆发
+2597,Themes,Seasons and Weather,,Tsunami,海啸
+2598,Themes,Seasons and Weather,,Flood,洪水
+2599,Themes,Seasons and Weather,,Flooded,被淹没
+2600,Themes,Seasons and Weather,,Time Photograph,时间照片
+2601,Themes,Holidays,,Christmas,圣诞节
+2602,Themes,Holidays,,Santa,圣诞老人
+2603,Themes,Holidays,,Elf,精灵
+2604,Themes,Holidays,,Halloween,万圣节

@@ -1,0 +1,255 @@
+,Main Category,Child Category,GrandChild Category,Prompt,Translate
+818,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Sketch,素描
+819,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Drawing,绘图
+820,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Drawn,绘制
+821,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Written,书面
+822,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,s Drawing,s 绘图
+823,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Masterpiece,杰作
+824,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Dot Art,点艺术
+825,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Pointillism,点彩主义
+826,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Stipple,波纹
+827,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Line Art,线条艺术
+828,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Crosshatch,交叉阴影
+829,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Figure Drawing,图形绘制
+830,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Caricature,漫画
+831,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Illustration,插图
+832,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Storybook Illustration,故事书插图
+833,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Whimsical Illustration,异想天开的插图
+834,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Assembly Drawing,装配图
+835,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Anatomical Drawing,解剖学绘图
+836,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Illuminated Manuscript,照明手稿
+837,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Visual Novel,视觉小说
+838,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Graphic Novel,图形小说
+839,Drawing_and_Art_Mediums,Illustration and Drawing,Drawing Types,Cartographic,地图学
+840,Drawing_and_Art_Mediums,Illustration and Drawing,Pencil and Graphite,Pencil Art,铅笔艺术
+841,Drawing_and_Art_Mediums,Illustration and Drawing,Pencil and Graphite,Graphite,石墨
+842,Drawing_and_Art_Mediums,Illustration and Drawing,Pencil and Graphite,Charcoal Art,木炭艺术
+843,Drawing_and_Art_Mediums,Illustration and Drawing,Pencil and Graphite,Colored Pencil,彩色铅笔
+844,Drawing_and_Art_Mediums,Illustration and Drawing,Pencil and Graphite,Grease Pencil,油脂铅笔
+845,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Ink,墨水
+846,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Calligraphy,书法
+847,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Ballpoint Pen,圆珠笔
+848,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Fountain Pen,钢笔
+849,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Fountain Pen Art,钢笔艺术
+850,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Gel Pen,凝胶笔
+851,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Conductive Ink,导电油墨
+852,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Flexographic Ink,柔版印刷油墨
+853,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,India Ink,印度墨水
+854,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Iron Gall Ink,铁胆墨汁
+855,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Grease Pen,油脂笔
+856,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Marker Art,标记类型
+857,Drawing_and_Art_Mediums,Illustration and Drawing,Ink,Whiteboard,白板
+858,Drawing_and_Art_Mediums,Illustration and Drawing,"Crayon, Chalk, and Pastel",Crayon,铅笔
+859,Drawing_and_Art_Mediums,Illustration and Drawing,"Crayon, Chalk, and Pastel",Chalk,粉笔
+860,Drawing_and_Art_Mediums,Illustration and Drawing,"Crayon, Chalk, and Pastel",Pastel Art,粉彩艺术
+861,Drawing_and_Art_Mediums,Illustration and Drawing,"Crayon, Chalk, and Pastel",Conte,康特
+862,Drawing_and_Art_Mediums,Paint,Painting Types,Canvas,帆布
+863,Drawing_and_Art_Mediums,Paint,Painting Types,Hard Edge Painting,硬边绘画
+864,Drawing_and_Art_Mediums,Paint,Painting Types,Detailed Painting,详细绘画
+865,Drawing_and_Art_Mediums,Paint,Painting Types,Speedpainting,快速涂抹
+866,Drawing_and_Art_Mediums,Paint,Painting Types,Faux Painting,仿真画
+867,Drawing_and_Art_Mediums,Paint,Painting Types,Color Field Painting,色域绘画
+868,Drawing_and_Art_Mediums,Paint,Painting Types,Scroll Painting,卷轴画
+869,Drawing_and_Art_Mediums,Paint,Painting Types,Fine Art,精美的艺术
+870,Drawing_and_Art_Mediums,Paint,Painting Types,Modern Art,现代艺术
+871,Drawing_and_Art_Mediums,Paint,Painting Types,Brushwork,笔法
+872,Drawing_and_Art_Mediums,Paint,Painting Types,Paintwork,油漆工程
+873,Drawing_and_Art_Mediums,Paint,Painting Types,Matte Painting,哑光绘画
+874,Drawing_and_Art_Mediums,Paint,Painting Types,Encaustic Painting,搪瓷画
+875,Drawing_and_Art_Mediums,Paint,Painting Types,Gond Painting,贡德绘画
+876,Drawing_and_Art_Mediums,Paint,Painting Types,Chinese Painting,中国画
+877,Drawing_and_Art_Mediums,Paint,Painting Types,Ancient Roman Painting,古罗马绘画
+878,Drawing_and_Art_Mediums,Paint,Painting Types,Romanesque Painting,罗马式绘画
+879,Drawing_and_Art_Mediums,Paint,Painting Types,Tibetan Painting,藏族绘画
+880,Drawing_and_Art_Mediums,Paint,Painting Types,Warli Painting,瓦尔里绘画
+881,Drawing_and_Art_Mediums,Paint,Painting Types,Fayum Portrait,法尤姆画像
+882,Drawing_and_Art_Mediums,Paint,Painting Types,Dipping,浸渍
+883,Drawing_and_Art_Mediums,Paint,Painting Types,Hydrodipped,水泥涂抹
+884,Drawing_and_Art_Mediums,Paint,Painting Types,Artwork,艺术作品
+885,Drawing_and_Art_Mediums,Paint,Painting Types,Street Art,街头艺术
+886,Drawing_and_Art_Mediums,Paint,Painting Types,Cave Art,洞穴艺术
+887,Drawing_and_Art_Mediums,Paint,Painting Types,Rock Art,岩石艺术
+888,Drawing_and_Art_Mediums,Paint,Painting Types,Sandpainting,沙画
+889,Drawing_and_Art_Mediums,Paint,Painting Types,Easter Egg,复活节彩蛋
+890,Drawing_and_Art_Mediums,Paint,Painting Types,Egg Decorating,鸡蛋装饰
+891,Drawing_and_Art_Mediums,Paint,Paint Types,Paint,涂料
+892,Drawing_and_Art_Mediums,Paint,Paint Types,Oil Paint,油画
+893,Drawing_and_Art_Mediums,Paint,Paint Types,Tempera Paint,钢笔画
+894,Drawing_and_Art_Mediums,Paint,Paint Types,Acrylic Paint,丙烯颜料
+895,Drawing_and_Art_Mediums,Paint,Paint Types,Gouache Paint,水粉画颜料
+896,Drawing_and_Art_Mediums,Paint,Paint Types,Watercolor,水彩画
+897,Drawing_and_Art_Mediums,Paint,Paint Types,Wet Paint,湿漆
+898,Drawing_and_Art_Mediums,Paint,Paint Types,Dripping Paint,滴滴答答的油漆
+899,Drawing_and_Art_Mediums,Paint,Paint Types,Splatter Paint,飞溅的油漆
+900,Drawing_and_Art_Mediums,Paint,Paint Types,Stencil Graffiti,涂鸦模版
+901,Drawing_and_Art_Mediums,Paint,Paint Types,Graffiti Tag,涂鸦标签
+902,Drawing_and_Art_Mediums,Paint,Paint Types,1980s Airbrush Art,1980年代的喷漆艺术
+903,Drawing_and_Art_Mediums,Paint,Paint Types,Puffy Paint,蓬松的油漆
+904,Drawing_and_Art_Mediums,Paint,Paint Types,Spray,喷雾
+905,Drawing_and_Art_Mediums,Paint,Paint Types,Glass Paint,玻璃漆
+906,Drawing_and_Art_Mediums,Paint,Paint Types,Blacklight Paint,黑光漆
+907,Drawing_and_Art_Mediums,Paint,Paint Types,Casein Paint,酪蛋白涂料
+908,Drawing_and_Art_Mediums,Paint,Paint Types,Coffee Paint,咖啡漆
+909,Drawing_and_Art_Mediums,Text,,Text,文本
+910,Drawing_and_Art_Mediums,Text,,Typeface,样式
+911,Drawing_and_Art_Mediums,Text,,Font,字体
+912,Drawing_and_Art_Mediums,Text,,Letters,信件
+913,Drawing_and_Art_Mediums,Text,,Written Letters,书信
+914,Drawing_and_Art_Mediums,Text,,Written Words,书面文字
+915,Drawing_and_Art_Mediums,Text,,Words,词条
+916,Drawing_and_Art_Mediums,Text,,Lexemes,Lexemes
+917,Drawing_and_Art_Mediums,Text,,Graphemes,符号
+918,Drawing_and_Art_Mediums,Text,,Says,说法
+919,Drawing_and_Art_Mediums,Text,,Says Hello,"说：""你好"
+920,Drawing_and_Art_Mediums,Text,,Caption,标题
+921,Drawing_and_Art_Mediums,Art Types Printed,,Print,印刷品
+922,Drawing_and_Art_Mediums,Art Types Printed,,Printed,打印的
+923,Drawing_and_Art_Mediums,Art Types Printed,,3D Printed,3D打印的
+924,Drawing_and_Art_Mediums,Art Types Printed,,Inkjet Printed,喷墨打印的
+925,Drawing_and_Art_Mediums,Art Types Printed,,Laser Printed,激光打印的
+926,Drawing_and_Art_Mediums,Art Types Printed,,Concept Art,概念艺术
+927,Drawing_and_Art_Mediums,Art Types Printed,,Logo,徽标
+928,Drawing_and_Art_Mediums,Art Types Printed,,Stamp,印章
+929,Drawing_and_Art_Mediums,Art Types Printed,,Postage Stamp,邮票
+930,Drawing_and_Art_Mediums,Art Types Printed,,Business Card,商务卡
+931,Drawing_and_Art_Mediums,Art Types Printed,,Magazine,杂志
+932,Drawing_and_Art_Mediums,Art Types Printed,,Comic Book,漫画书
+933,Drawing_and_Art_Mediums,Art Types Printed,,up Book,上一页 书
+934,Drawing_and_Art_Mediums,Art Types Printed,,Kids Book,儿童读物
+935,Drawing_and_Art_Mediums,Art Types Printed,,Album Art,专辑艺术
+936,Drawing_and_Art_Mediums,Art Types Printed,,Instruction Manual,指导手册
+937,Drawing_and_Art_Mediums,Art Types Printed,,IKEA Guide,宜家指南
+938,Drawing_and_Art_Mediums,Art Types Printed,,Poster,海报
+939,Drawing_and_Art_Mediums,Art Types Printed,,Movie Poster,电影海报
+940,Drawing_and_Art_Mediums,Art Types Printed,,Concert Poster,音乐会海报
+941,Drawing_and_Art_Mediums,Art Types Printed,,Collage,拼贴
+942,Drawing_and_Art_Mediums,Art Types Printed,,Risograph,日记本
+943,Drawing_and_Art_Mediums,Art Types Printed,,Block Printing,块状印刷
+944,Drawing_and_Art_Mediums,Art Types Printed,,Lithography,平版印刷
+945,Drawing_and_Art_Mediums,Art Types Printed,,Viscosity Print,黏度打印
+946,Drawing_and_Art_Mediums,Art Types Printed,,Transfer Printing,转移印刷
+947,Drawing_and_Art_Mediums,Art Types Printed,,Flexography,柔版印刷
+948,Drawing_and_Art_Mediums,Art Types Printed,,Bagh Print,巴格打印
+949,Drawing_and_Art_Mediums,Art Types Printed,,Bagru Print,巴格鲁打印
+950,Drawing_and_Art_Mediums,Art Types Printed,,Drypoint,干点法
+951,Drawing_and_Art_Mediums,Art Types Printed,,Metalcut,金属切割
+952,Drawing_and_Art_Mediums,Art Types Printed,,Blueprint,蓝图
+953,Drawing_and_Art_Mediums,Art Types Printed,,Sticker,贴纸
+954,Drawing_and_Art_Mediums,Art Types Printed,,Barcode,条形码
+955,Drawing_and_Art_Mediums,Art Types Printed,,QR Code,二维码
+956,Drawing_and_Art_Mediums,Art Types Printed,,Pokemon Card,口袋妖怪卡
+957,Drawing_and_Art_Mediums,Art Types Printed,,Pokémon,神奇宝贝
+958,Drawing_and_Art_Mediums,Art Types Printed,,Pokémon Card,神奇宝贝卡
+959,Drawing_and_Art_Mediums,Physical Mediums,Origami,Origami,折纸的
+960,Drawing_and_Art_Mediums,Physical Mediums,Origami,Rigid Origami,刚性折纸
+961,Drawing_and_Art_Mediums,Physical Mediums,Origami,Modular Origami,模块化折纸
+962,Drawing_and_Art_Mediums,Physical Mediums,Origami,Kirigami,雾神
+963,Drawing_and_Art_Mediums,Physical Mediums,Origami,Moneygami,钱加美
+964,Drawing_and_Art_Mediums,Physical Mediums,Origami,Chinese Paper Art,中国纸艺
+965,Drawing_and_Art_Mediums,Physical Mediums,Origami,Sonobe,索诺比
+966,Drawing_and_Art_Mediums,Physical Mediums,Mosaic,Mosaic,马赛克
+967,Drawing_and_Art_Mediums,Physical Mediums,Mosaic,Micromosaic,微马赛克
+968,Drawing_and_Art_Mediums,Physical Mediums,Mosaic,Glass Mosaic,玻璃马赛克
+969,Drawing_and_Art_Mediums,Physical Mediums,Mosaic,Photographic Mosaic,摄影马赛克
+970,Drawing_and_Art_Mediums,Physical Mediums,Mosaic,Impressionist Mosaic,印象派马赛克
+971,Drawing_and_Art_Mediums,Physical Mediums,Mosaic,Pietra Dura,坚硬的石头
+972,Drawing_and_Art_Mediums,Physical Mediums,Mosaic,Encaustic Tile,胶合板砖
+973,Drawing_and_Art_Mediums,Physical Mediums,Mosaic,Ancient Roman Mosaic,古罗马马赛克
+974,Drawing_and_Art_Mediums,Physical Mediums,"Framed, Banner, and Decal",Frame,框架
+975,Drawing_and_Art_Mediums,Physical Mediums,"Framed, Banner, and Decal",Framed,有框
+976,Drawing_and_Art_Mediums,Physical Mediums,"Framed, Banner, and Decal",Wooden Frame,木质框架
+977,Drawing_and_Art_Mediums,Physical Mediums,"Framed, Banner, and Decal",Wooden Framed,木制框架
+978,Drawing_and_Art_Mediums,Physical Mediums,"Framed, Banner, and Decal",Wall Decal,墙贴
+979,Drawing_and_Art_Mediums,Physical Mediums,"Framed, Banner, and Decal",Signage,标志牌
+980,Drawing_and_Art_Mediums,Physical Mediums,"Framed, Banner, and Decal",Tapestry,挂毯
+981,Drawing_and_Art_Mediums,Physical Mediums,"Framed, Banner, and Decal",Bayeux Tapestry,贝叶挂毯
+982,Drawing_and_Art_Mediums,Physical Mediums,"Framed, Banner, and Decal",In The Style of Bayeux Tapestry,贝叶挂毯的风格
+983,Drawing_and_Art_Mediums,Physical Mediums,"Framed, Banner, and Decal",Minoan Mural,米诺斯壁画
+984,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Pyrography,火烧术
+985,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Model,模型
+986,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Modeling,建模
+987,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Mayan Sculpture,玛雅人的雕塑
+988,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Woodturning,木材加工
+989,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Work,工作
+990,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Lath Art,板条艺术
+991,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Bentwood,弯曲的木头
+992,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Woodblock Print,木版画
+993,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Intarsia,英塔拉西亚
+994,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Wood Marquetry,木质拼花
+995,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Straw Marquetry,稻草拼花
+996,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Scrimshaw,皱纹
+997,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Sgraffito,斯格雷菲托
+998,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Hardstone Carving,硬石雕刻
+999,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Leather Crafting,皮具制作
+1000,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Bejeweled,珠光宝气
+1001,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Engraved Gem,雕刻的宝石
+1002,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Lapidary,石匠
+1003,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Intaglio,凹版画
+1004,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Lacquer,漆器
+1005,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Carved Lacquer,雕花漆器
+1006,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Papercutting,剪纸
+1007,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Paper Model,纸质模型
+1008,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Mache,做出
+1009,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Fretwork,网状结构
+1010,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Card,卡片
+1011,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Linocut,利诺卡特
+1012,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Puppet,木偶
+1013,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Balloon Modelling,气球模型制作
+1014,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Balloon Twisting,拧气球
+1015,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Computer Chip,计算机芯片
+1016,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Oshibana,大花
+1017,Drawing_and_Art_Mediums,Physical Mediums,"Carving, Etching, and Modeling",Figurine,塑像
+1018,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Glaze,釉面
+1019,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Overglaze,釉上彩
+1020,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Inglaze,英格拉兹
+1021,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Salt Glaze Pottery,盐釉陶器
+1022,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Glazed Pottery,釉面陶器
+1023,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Cameo Glass,浮雕玻璃
+1024,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Enameled Glass,搪瓷玻璃
+1025,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Glass Blowing,玻璃吹制
+1026,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Paleolithic Pottery,旧石器时代的陶器
+1027,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Neolithic Pottery,新石器时代的陶器
+1028,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Stoneware,石器
+1029,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Slipware,滑石器皿
+1030,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Chintzware,瓷器
+1031,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Agateware,阿加特伍德
+1032,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Lustreware,蝗蝗虫
+1033,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Bone China,骨质瓷
+1034,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Bone Carving,骨雕
+1035,Drawing_and_Art_Mediums,Physical Mediums,Pottery and Glass,Ornament,饰品
+1036,Drawing_and_Art_Mediums,Physical Mediums,Light,Light Art,光艺术
+1037,Drawing_and_Art_Mediums,Physical Mediums,Light,Light Painting,光画
+1038,Drawing_and_Art_Mediums,Physical Mediums,Light,Lightpainting,光绘
+1039,Drawing_and_Art_Mediums,Physical Mediums,Light,Projection Mapping,投影测绘
+1040,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Arts and Crafts,艺术和手工艺
+1041,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Resin,树脂
+1042,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Enamel Pin,珐琅针
+1043,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Beadwork,串珠工艺
+1044,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Beads and String,珠子和绳子
+1045,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Beads and Yarn,珠子和纱线
+1046,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Sticker Bomb,贴纸炸弹
+1047,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Tattoo,纹身
+1048,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Colle,科尔
+1049,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Assemblage,装配
+1050,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Featherwork,羽毛工艺
+1051,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Latte Art,牛奶艺术
+1052,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Coffee Stain,咖啡渍
+1053,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Smoke Art,烟雾艺术
+1054,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Hedge Trimming,绿篱修剪
+1055,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Specific art,具体艺术
+1056,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Public Art,公共艺术
+1057,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Ironwork,铁艺工程
+1058,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Carpentry,木工
+1059,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Diorama,迪奥拉玛
+1060,Drawing_and_Art_Mediums,Physical Mediums,Other Physical Mediums,Hatmaking,制帽
+1061,Drawing_and_Art_Mediums,Other,,Stencil,模板
+1062,Drawing_and_Art_Mediums,Other,,Negative Space,负空间
+1063,Drawing_and_Art_Mediums,Other,,Outlined,概述
+1064,Drawing_and_Art_Mediums,Other,,Scrapbooking,剪贴簿
+1065,Drawing_and_Art_Mediums,Other,,Mixed Media,混合媒体
+1066,Drawing_and_Art_Mediums,Other,,Frottage,弗洛塔奇
+1067,Drawing_and_Art_Mediums,Other,,Glitter,闪闪发光
+1068,Drawing_and_Art_Mediums,Other,,Kamikiri,上切岛
+1069,Drawing_and_Art_Mediums,Other,,Indian Art,印度艺术
+1070,Drawing_and_Art_Mediums,Other,,Soviet Art,苏联艺术
+1071,Drawing_and_Art_Mediums,Other,,Cosmorama,宇宙飞船
