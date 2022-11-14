@@ -34,4 +34,5 @@ def img2img(imgobject, prompt):
 if __name__ == "__main__":
     imgobject = Image.open("test.jpg")
     images = img2img(imgobject, "A very beautiful anime girl, full body, long wavy blond hair, sky blue eyes")
+    images.show()
     images.save("pretty.png")
