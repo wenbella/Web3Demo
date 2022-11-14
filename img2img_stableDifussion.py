@@ -1,3 +1,10 @@
+# pip install https://github.com/huggingface/diffusers/archive/main.zip -qUU --force-reinstall
+# pip install -qq -U transformers ftfy
+# pip install -qq "ipywidgets>=7,<8"
+# pip install Image
+# pip install --ignore-installed Pillow==9.0.0
+# pip install accelerate
+
 from torch import autocast
 import torch
 import requests
@@ -27,3 +34,4 @@ def img2img(imgobject, prompt):
 if __name__ == "__main__":
     imgobject = Image.open("test.jpg")
     images = img2img(imgobject, "A very beautiful anime girl, full body, long wavy blond hair, sky blue eyes")
+    images.save("pretty.png")
