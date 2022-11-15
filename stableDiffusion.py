@@ -14,7 +14,7 @@ from helper_script import upload_img_to_ipfs
 from collections import defaultdict
 
 pipe = StableDiffusionPipeline.from_pretrained("CompVis/stable-diffusion-v1-4", revision="fp16",
-                                               torch_dtype=torch.float16, use_auth_token=True)
+                                               torch_dtype=torch.float16, use_auth_token="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")
 pipe = pipe.to("cuda")
 
 
